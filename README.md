@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @krishguptadev
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning open source
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me: krishguptadev@outlook.com
