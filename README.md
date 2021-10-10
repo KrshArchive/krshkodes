@@ -1,11 +1,11 @@
-<h1 align="left">Hi, I'm Krish Gupta 👋</h1>
+<h1 align="left">Alola, I'm Krish Gupta 👋</h1>
 <h3 align="left">An enthusiast student developer looking forward to contribute to open source!</h3>
 
 - 🌱 I’m currently learning **to code**
 
 - 👯 I’m looking to collaborate on **new projects**
 
-- 💬 Ask me about **opensource, Git, and GitHub**
+- 💬 Ask me about **Open Source, Git, and GitHub**
 
 - 📫 How to reach me: **krishguptadev@outlook.com**
 
