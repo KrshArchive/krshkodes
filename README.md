@@ -1,4 +1,5 @@
-<h1 align="left">Alola, I'm Krish Gupta 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Krish's+GitHub+Profile!)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dth99/" target="_blank"> Krish Gupta </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="left">An enthusiast student developer looking forward to contribute to open source!</h3>
 
 - 🌱 I’m currently learning **to code**
