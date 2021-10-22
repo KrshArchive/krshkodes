@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [krishguptadev.tech](krishguptadev.tech)
+- 👨‍💻 All of my projects are available at [krishguptadev.tech](https://krishguptadev.tech)
 
-- 📝 I regularly write articles on [blog.krishguptadev.tech](blog.krishguptadev.tech)
+- 📝 I regularly write articles on [blog.krishguptadev.tech](https://blog.krishguptadev.tech)
 
 - 💬 Ask me about **open source, webdev and nodejs**
 
