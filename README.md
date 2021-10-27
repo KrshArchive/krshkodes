@@ -53,9 +53,6 @@ Alola peeps, I am **Krish** a 8th grade student from Delhi, India. I started my 
         ✏️ Title
       </td>
       <td>
-        📕 Description
-      </td>
-      <td>
         📅 Date
       </td>
     </tr>
