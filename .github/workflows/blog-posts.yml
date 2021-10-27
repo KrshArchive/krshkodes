@@ -18,3 +18,4 @@ jobs:
           max_post_count: 7
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           template: '<tr><td><a href="$url">$title</a></td><td>$description</td><td>$date</td></tr>'
+          description_max_length: 35
