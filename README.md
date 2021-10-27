@@ -70,7 +70,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 </details>
 
 <details>
-  <summary⚡ Latest Activity <br /></summary>
+  <summary>⚡ Latest Activity <br /></summary>
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#613](https://github.com/EddieHubCommunity/LinkFree/issues/613) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 2. 🗣 Commented on [#611](https://github.com/EddieHubCommunity/LinkFree/issues/611) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
