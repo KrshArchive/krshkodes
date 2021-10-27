@@ -47,6 +47,6 @@ Alola peeps, I am **Krish** a 8th grade student from Delhi, India. I started my 
   
 <details>
   <summary>📕 Latest Articles <br /></summary>
-  <!-- BLOG-POST-LIST:START -->[Open Source, my experience till now. randomEmoji](https://blog.krishguptadev.tech/open-source-my-experience-till-now)<br />[Appwrite: All you need to know randomEmoji](https://blog.krishguptadev.tech/appwrite-all-you-need-to-know)<br /><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><a href="https://blog.krishguptadev.tech/open-source-my-experience-till-now">Open Source, my experience till now. $randomEmoji</a><br /><a href="https://blog.krishguptadev.tech/appwrite-all-you-need-to-know">Appwrite: All you need to know $randomEmoji</a><br /><!-- BLOG-POST-LIST:END -->
 </details>
 </div>
