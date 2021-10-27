@@ -17,4 +17,4 @@ jobs:
           feed_list: "https://blog.krishguptadev.tech/rss.xml"
           max_post_count: 7
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-          template: "[$title randomEmoji]($url)<br />"
+          template: '<a href="$url">$title $randomEmoji</a><br />'
