@@ -72,6 +72,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 <details>
   <summary⚡ Latest Activity <br /></summary>
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#613](https://github.com/EddieHubCommunity/LinkFree/issues/613) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#611](https://github.com/EddieHubCommunity/LinkFree/issues/611) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🎉 Merged PR [#8](https://github.com/web3community/.github/pull/8) in [web3community/.github](https://github.com/web3community/.github)
+4. 🎉 Merged PR [#7](https://github.com/web3community/.github/pull/7) in [web3community/.github](https://github.com/web3community/.github)
+5. ❗️ Opened issue [#81](https://github.com/SurPathHub/support/issues/81) in [SurPathHub/support](https://github.com/SurPathHub/support)
   <!--END_SECTION:activity-->
 </details>
 </div>
