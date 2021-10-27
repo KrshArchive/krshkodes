@@ -3,11 +3,18 @@
 ![](https://cardivo.vercel.app/api?name=krishguptadev&description=An%20enthusiast%20student%20developer%20looking%20forward%20to%20contribute%20to%20open%20source!%0A&image=https%3A%2F%2Fgithub.com%2Fkrishguptadev.png&site=krishguptadev.tech&instagram=krishguptadev&github=krishguptadev&twitter=krishguptadev&backgroundColor=%23ffffff)
 
 # Alola 👋, I'm Krish Gupta
+
+[![Discord](https://img.shields.io/badge/Support%20Server%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://krish.ninja/discord)
+[![Instagram](https://img.shields.io/badge/%40krishguptadev%0A-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krishguptadev)
+[![Outlook](https://img.shields.io/badge/E%20Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:krishguptadev@outlook.com)
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://poly.work/krishguptadev)
+[![Twitter](https://img.shields.io/badge/%40krishguptadev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krishguptadev)
+
 ### A passionate student developer from India, looking forward to learn tech
 
 <p>
 
-Alola peeps, I am **Krish** a 8th grade student from Delhi, India. I started my tech journey on **30th September 2021**. Since then, I am learning new things and growing my network. I love to **chat, collaborate and contribute**. I am open sourcer, that's my complete bio.
+Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my tech journey on **30th September 2021**. Since then, I am learning new things and growing my network. I love to **chat, collaborate and contribute**. I am an open sourcer, that's my complete bio.
 
 </p> <br />
 
