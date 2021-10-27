@@ -54,6 +54,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   
 <details>
   <summary>📕 Latest Articles <br /></summary>
+  <br />
   <table>
     <tr>
       <td>
