@@ -59,8 +59,7 @@ Alola peeps, I am **Krish** a 8th grade student from Delhi, India. I started my 
         📅 Date
       </td>
     </tr>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START --><tr><td><a href="https://blog.krishguptadev.tech/open-source-my-experience-till-now">Open Source, my experience till now.</a></td><td><h2 id="what-is-open-source">What i...</td><td>Fri Oct 08 2021 6:13 AM</td></tr><tr><td><a href="https://blog.krishguptadev.tech/appwrite-all-you-need-to-know">Appwrite: All you need to know</a></td><td><h2 id="whats-appwrite">What's Appw...</td><td>Wed Oct 06 2021 12:14 PM</td></tr><!-- BLOG-POST-LIST:END -->
   </table>
 </details>
 </div>
