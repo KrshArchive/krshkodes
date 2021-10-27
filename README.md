@@ -1,5 +1,9 @@
-<h1 align="center">Alola 👋, I'm Krish Gupta</h1>
-<h3 align="center">A passionate student developer from India, looking forward to learn tech</h3>
+<div align="right">
+
+# Alola 👋, I'm Krish Gupta
+### A passionate student developer from India, looking forward to learn tech
+
+Alola peeps, I am Krish a 8th grade student from Delhi, India. I started my tech journey on 30th September 2021. Since then, I am learning new things and growing my network. I love to **chat, collaborate and contribute**. I am open sourcer, that's my complete bio.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishguptadev" alt="krishguptadev" /></a> </p>
 
@@ -45,3 +49,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=dark&locale=en" alt="krishguptadev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishguptadev&theme=dark" alt="krishguptadev" /></p>
+
+</div>
