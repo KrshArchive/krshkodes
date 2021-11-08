@@ -44,15 +44,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 
 </p> <br />
 
-<details>
-  <summary>📈 Show GitHub Stats <br /></summary>
-  <br />
-  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
-
-  <img width="350" align="right" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  <br />
-</details>
-  
+<div>
 <details>
   <summary>📕 Latest Articles <br /></summary>
   <br />
@@ -68,5 +60,24 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
     <!-- BLOG-POST-LIST:START --><tr><td><a href="https://blog.krishguptadev.tech/open-source-my-experience-till-now">Open Source, my experience till now.</a></td><td>Fri Oct 08 2021 6:13 AM</td></tr><tr><td><a href="https://blog.krishguptadev.tech/appwrite-all-you-need-to-know">Appwrite: All you need to know</a></td><td>Wed Oct 06 2021 12:14 PM</td></tr><!-- BLOG-POST-LIST:END -->
   </table>
   <br />
-</details>
+</details> <br />
+</div>
+
+<div>
+<details>
+  <summary>📈 Show GitHub Stats <br /></summary>
+  <br />
+  <img width="600" align="center" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
+  <br />
+</details> <br />
+</div>
+
+<div>
+<details>
+  <summary>❤️‍🔥 Show GitHub Streak <br /></summary>
+  <br />
+  <img width="600" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <br />
+</details> <br />
+</div>
 </div>
