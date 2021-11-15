@@ -1,5 +1,3 @@
-<div align="right">
-
 ![](https://cardivo.vercel.app/api?name=krishguptadev&description=An%20enthusiast%20student%20developer%20looking%20forward%20to%20contribute%20to%20open%20source!%0A&image=https%3A%2F%2Fgithub.com%2Fkrishguptadev.png&site=krishguptadev.tech&instagram=krishguptadev&github=krishguptadev&twitter=krishguptadev&backgroundColor=%23ffffff&disableAnimation=true)
 
 # Alola 👋, I'm Krish Gupta
@@ -48,27 +46,19 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 <details>
   <summary>📈 Show GitHub Stats</summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img width="460" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
+  <img width="460" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <br />
+  <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=282C34&color=1DADFA&line=1DADFA&point=1DADFA&hide_border=true">
 </details> <br />
 </div>
 
 <div>
 <details>
-  <summary>📕 Latest Articles</summary>
+  <summary>📕 Blog Posts</summary>
   <br />
-  <table>
-    <tr>
-      <td>
-        ✏️ Title
-      </td>
-      <td>
-        📅 Date
-      </td>
-    </tr>
-    <!-- BLOG-POST-LIST:START --><tr><td><a href="https://blog.krishguptadev.tech/open-source-my-experience-till-now">Open Source, my experience till now.</a></td><td>Fri Oct 08 2021 6:13 AM</td></tr><tr><td><a href="https://blog.krishguptadev.tech/appwrite-all-you-need-to-know">Appwrite: All you need to know</a></td><td>Wed Oct 06 2021 12:14 PM</td></tr><!-- BLOG-POST-LIST:END -->
-  </table>
+
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+
 </details> <br />
-</div>
-  
-![](https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=282C34&color=1DADFA&line=1DADFA&point=1DADFA&hide_border=true)
