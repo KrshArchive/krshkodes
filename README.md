@@ -70,3 +70,5 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   </table>
 </details> <br />
 </div>
+  
+![](https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&bg_color=20232a&hide_border=true)
