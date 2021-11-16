@@ -58,7 +58,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <summary>📕 Blog Posts</summary>
   <br />
 
-    <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 - [Open Source, my experience till now.](https://blog.krishguptadev.tech/open-source-my-experience-till-now)
 - [Appwrite: All you need to know](https://blog.krishguptadev.tech/appwrite-all-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
