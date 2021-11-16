@@ -52,7 +52,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
     <img src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   </div>
   <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=282C34&color=1DADFA&line=1DADFA&point=1DADFA&hide_border=true">
-</details> <br />
+</details>
 </div>
 
 <div>
@@ -65,4 +65,14 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 - [Appwrite: All you need to know](https://blog.krishguptadev.tech/appwrite-all-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
-</details> <br />
+</details>
+  
+<div>
+<details>
+  <summary>⚡Latest GitHub Activity</summary>
+  <br />
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
