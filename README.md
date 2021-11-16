@@ -46,12 +46,12 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 <details>
   <summary>📈 Show GitHub Stats</summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
-  <br />
-  <div align="left">
+  <div align="right">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <br />
+    <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=282C34&color=1DADFA&line=1DADFA&point=1DADFA&hide_border=true">
   </div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=282C34&color=1DADFA&line=1DADFA&point=1DADFA&hide_border=true">
 </details>
 </div>
 
