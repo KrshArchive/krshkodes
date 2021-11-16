@@ -1,4 +1,4 @@
-![](https://cardivo.vercel.app/api?name=krishguptadev&description=An%20enthusiast%20student%20developer%20looking%20forward%20to%20contribute%20to%20open%20source!%0A&image=https%3A%2F%2Fgithub.com%2Fkrishguptadev.png&site=krishguptadev.tech&instagram=krishguptadev&github=krishguptadev&twitter=krishguptadev&backgroundColor=%23ffffff&disableAnimation=true)
+![](https://github.com/krishguptadev/krishguptadev/raw/main/banner.png)
 
 # Alola 👋, I'm Krish Gupta
 
