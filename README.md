@@ -73,6 +73,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#668](https://github.com/EddieHubCommunity/LinkFree/issues/668) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#138](https://github.com/web3community/devprotocol.xyz/issues/138) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 💪 Opened PR [#1](https://github.com/dhruvsol/Juhie-protfolio/pull/1) in [dhruvsol/Juhie-protfolio](https://github.com/dhruvsol/Juhie-protfolio)
+4. 🗣 Commented on [#339](https://github.com/EddieHubCommunity/LinkFree/issues/339) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#138](https://github.com/web3community/devprotocol.xyz/issues/138) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
 <!--END_SECTION:activity-->
 
 </details>
