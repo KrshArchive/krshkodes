@@ -2,7 +2,7 @@
 
 # Alola 👋, I'm Krish Gupta
 
-[![Discord](https://img.shields.io/badge/Support%20Server%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://krish.ninja/discord)
+[![Discord](https://img.shields.io/badge/CodeEmAll%20Community%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://krish.ninja/discord)
 [![Instagram](https://img.shields.io/badge/%40krishguptadev%0A-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krishguptadev)
 [![Outlook](https://img.shields.io/badge/E%20Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:krishguptadev@outlook.com)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://poly.work/krishguptadev)
@@ -46,9 +46,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 <details>
   <summary>📈 Show GitHub Stats</summary>
   <br />
-  <img width="460" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
-  <img width="460" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
   <br />
+  <div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  </div>
   <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=282C34&color=1DADFA&line=1DADFA&point=1DADFA&hide_border=true">
 </details> <br />
 </div>
