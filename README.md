@@ -42,7 +42,6 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 
 </p> <br />
 
-<div>
 <details>
   <summary>📈 Show GitHub Stats</summary>
   <br />
@@ -53,9 +52,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
     <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=282C34&color=1DADFA&line=1DADFA&point=1DADFA&hide_border=true">
   </div>
 </details>
-</div>
 
-<div>
 <details>
   <summary>📕 Blog Posts</summary>
   <br />
@@ -66,8 +63,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-  
-<div>
+
 <details>
   <summary>⚡Latest GitHub Activity</summary>
   <br />
