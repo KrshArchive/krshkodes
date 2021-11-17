@@ -69,10 +69,10 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#674](https://github.com/EddieHubCommunity/LinkFree/issues/674) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#133](https://github.com/web3community/web3community.github.io/issues/133) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-3. ❗️ Reopened issue [#133](https://github.com/web3community/web3community.github.io/issues/133) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-4. 🗣 Commented on [#41](https://github.com/EddieHubCommunity/EventCalendar/issues/41) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🗣 Commented on [#41](https://github.com/EddieHubCommunity/EventCalendar/issues/41) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+2. 🗣 Commented on [#674](https://github.com/EddieHubCommunity/LinkFree/issues/674) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#133](https://github.com/web3community/web3community.github.io/issues/133) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+4. ❗️ Reopened issue [#133](https://github.com/web3community/web3community.github.io/issues/133) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
 5. 🗣 Commented on [#41](https://github.com/EddieHubCommunity/EventCalendar/issues/41) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
