@@ -46,10 +46,10 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <summary>📈 Show GitHub Stats</summary>
   <br />
   <div align="right">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=onedark&locale=en&count_private=true&show_icons=true&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC">
     <br />
-    <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=282C34&color=1DADFA&line=1DADFA&point=1DADFA&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
   </div>
 </details>
 
