@@ -70,9 +70,9 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#146](https://github.com/web3community/devprotocol.xyz/issues/146) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-2. 💪 Opened PR [#146](https://github.com/web3community/devprotocol.xyz/pull/146) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-3. 💪 Opened PR [#1](https://github.com/dhruvsol/Moblie-Potfolio/pull/1) in [dhruvsol/Moblie-Potfolio](https://github.com/dhruvsol/Moblie-Potfolio)
-4. 🗣 Commented on [#652](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/652) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#146](https://github.com/web3community/devprotocol.xyz/issues/146) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 💪 Opened PR [#146](https://github.com/web3community/devprotocol.xyz/pull/146) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+4. 💪 Opened PR [#1](https://github.com/dhruvsol/Moblie-Potfolio/pull/1) in [dhruvsol/Moblie-Potfolio](https://github.com/dhruvsol/Moblie-Potfolio)
 5. 🗣 Commented on [#652](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/652) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
