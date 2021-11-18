@@ -70,10 +70,10 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#684](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/684) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#652](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/652) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#68](https://github.com/EddieHubCommunity/EventCalendar/pull/68) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-4. 🗣 Commented on [#67](https://github.com/EddieHubCommunity/EventCalendar/issues/67) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-5. ❗️ Opened issue [#67](https://github.com/EddieHubCommunity/EventCalendar/issues/67) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+2. 🎉 Merged PR [#145](https://github.com/web3community/devprotocol.xyz/pull/145) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. ❗️ Closed issue [#87](https://github.com/web3community/devprotocol.xyz/issues/87) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+4. 🗣 Commented on [#684](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/684) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#652](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/652) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 </details>
