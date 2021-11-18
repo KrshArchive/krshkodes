@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/web3community/devprotocol.xyz/pull/146) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-2. ❗️ Closed issue [#124](https://github.com/web3community/devprotocol.xyz/issues/124) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-3. ❗️ Closed issue [#143](https://github.com/web3community/devprotocol.xyz/issues/143) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-4. 💪 Opened PR [#136](https://github.com/web3community/web3community.github.io/pull/136) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-5. 🗣 Commented on [#122](https://github.com/web3community/start-here/issues/122) in [web3community/start-here](https://github.com/web3community/start-here)
+1. 🗣 Commented on [#87](https://github.com/web3community/devprotocol.xyz/issues/87) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+2. 🗣 Commented on [#132](https://github.com/web3community/web3community.github.io/issues/132) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+3. 🗣 Commented on [#70](https://github.com/EddieHubCommunity/EventCalendar/issues/70) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 🎉 Merged PR [#146](https://github.com/web3community/devprotocol.xyz/pull/146) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+5. ❗️ Closed issue [#124](https://github.com/web3community/devprotocol.xyz/issues/124) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
 <!--END_SECTION:activity-->
 
 </details>
