@@ -69,10 +69,10 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/web3community/start-here/issues/123) in [web3community/start-here](https://github.com/web3community/start-here)
-2. 🗣 Commented on [#131](https://github.com/EddieHubCommunity/LinkFree/issues/131) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#132](https://github.com/web3community/web3community.github.io/issues/132) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-4. 🗣 Commented on [#70](https://github.com/EddieHubCommunity/EventCalendar/issues/70) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 💪 Opened PR [#6](https://github.com/Sawo-Community/Sawo-Docs/pull/6) in [Sawo-Community/Sawo-Docs](https://github.com/Sawo-Community/Sawo-Docs)
+2. 🗣 Commented on [#123](https://github.com/web3community/start-here/issues/123) in [web3community/start-here](https://github.com/web3community/start-here)
+3. 🗣 Commented on [#131](https://github.com/EddieHubCommunity/LinkFree/issues/131) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#132](https://github.com/web3community/web3community.github.io/issues/132) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
 5. 🗣 Commented on [#70](https://github.com/EddieHubCommunity/EventCalendar/issues/70) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
