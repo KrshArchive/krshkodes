@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/EddieHubCommunity/EventCalendar/issues/71) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🗣 Commented on [#131](https://github.com/web3community/devprotocol.xyz/issues/131) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
 2. 🗣 Commented on [#71](https://github.com/EddieHubCommunity/EventCalendar/issues/71) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-3. 🗣 Commented on [#47](https://github.com/nhcommunity/community/issues/47) in [nhcommunity/community](https://github.com/nhcommunity/community)
-4. 🗣 Commented on [#646](https://github.com/EddieHubCommunity/LinkFree/issues/646) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#78](https://github.com/dev-protocol/community/issues/78) in [dev-protocol/community](https://github.com/dev-protocol/community)
+3. 🗣 Commented on [#71](https://github.com/EddieHubCommunity/EventCalendar/issues/71) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 🗣 Commented on [#47](https://github.com/nhcommunity/community/issues/47) in [nhcommunity/community](https://github.com/nhcommunity/community)
+5. 🗣 Commented on [#646](https://github.com/EddieHubCommunity/LinkFree/issues/646) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
