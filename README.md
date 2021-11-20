@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/EddieHubCommunity/LinkFree/issues/104) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❗️ Opened issue [#73](https://github.com/EddieHubCommunity/EventCalendar/issues/73) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-3. 🗣 Commented on [#131](https://github.com/web3community/devprotocol.xyz/issues/131) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-4. 🗣 Commented on [#2959](https://github.com/EddieHubCommunity/support/issues/2959) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Closed issue [#132](https://github.com/web3community/web3community.github.io/issues/132) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+1. 🗣 Commented on [#153](https://github.com/web3community/devprotocol.xyz/issues/153) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+2. 💪 Opened PR [#75](https://github.com/EddieHubCommunity/EventCalendar/pull/75) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+3. 💪 Opened PR [#74](https://github.com/EddieHubCommunity/EventCalendar/pull/74) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 💪 Opened PR [#683](https://github.com/EddieHubCommunity/LinkFree/pull/683) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#104](https://github.com/EddieHubCommunity/LinkFree/issues/104) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
