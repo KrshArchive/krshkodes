@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/EventCalendar/issues/26) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-2. 🗣 Commented on [#235](https://github.com/EddieHubCommunity/api/issues/235) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#233](https://github.com/EddieHubCommunity/api/issues/233) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#16](https://github.com/EddieHubCommunity/EventCalendar/issues/16) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-5. 🗣 Commented on [#25](https://github.com/EddieHubCommunity/EventCalendar/issues/25) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🗣 Commented on [#106](https://github.com/EddieHubCommunity/LinkFree/issues/106) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#684](https://github.com/EddieHubCommunity/LinkFree/issues/684) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#48](https://github.com/EddieHubCommunity/EventCalendar/issues/48) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/EventCalendar/issues/35) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+5. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/EventCalendar/issues/34) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
 </details>
