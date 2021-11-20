@@ -1,6 +1,6 @@
 ![](https://github.com/krishguptadev/krishguptadev/raw/main/banner.png)
 
-# Alola 👋, I'm Krish Gupta
+# Alola  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krish Gupta
 
 [![Discord](https://img.shields.io/badge/CodeEmAll%20Community%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://krish.ninja/discord)
 [![Instagram](https://img.shields.io/badge/%40krishguptadev%0A-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krishguptadev)
@@ -77,3 +77,14 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 <!--END_SECTION:activity-->
 
 </details>
+
+<h3 align="left">GitHub Stats</h3>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&theme=dark&locale=en" alt="krishguptadev" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishguptadev&show_icons=true&theme=dark&locale=en&layout=compact" alt="krishguptadev" /></td>
+  </tr>
+</table>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+ </div>
