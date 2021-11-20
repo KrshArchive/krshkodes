@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2915](https://github.com/EddieHubCommunity/support/issues/2915) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#76](https://github.com/EddieHubCommunity/EventCalendar/issues/76) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-3. 🗣 Commented on [#2961](https://github.com/EddieHubCommunity/support/issues/2961) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#2960](https://github.com/EddieHubCommunity/support/issues/2960) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#153](https://github.com/web3community/devprotocol.xyz/issues/153) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+1. 🗣 Commented on [#2716](https://github.com/EddieHubCommunity/support/issues/2716) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#2915](https://github.com/EddieHubCommunity/support/issues/2915) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#76](https://github.com/EddieHubCommunity/EventCalendar/issues/76) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 🗣 Commented on [#2961](https://github.com/EddieHubCommunity/support/issues/2961) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#2960](https://github.com/EddieHubCommunity/support/issues/2960) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
