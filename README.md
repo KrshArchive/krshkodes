@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/dev-protocol/community/issues/80) in [dev-protocol/community](https://github.com/dev-protocol/community)
-2. 🗣 Commented on [#2900](https://github.com/EddieHubCommunity/support/issues/2900) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❌ Closed PR [#5](https://github.com/krishguptadev/krishguptadev/pull/5) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
-4. 🗣 Commented on [#2716](https://github.com/EddieHubCommunity/support/issues/2716) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#2915](https://github.com/EddieHubCommunity/support/issues/2915) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#25](https://github.com/EddieHubCommunity/EventCalendar/issues/25) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+2. 💪 Opened PR [#1](https://github.com/developer-diganta/EventCalendar/pull/1) in [developer-diganta/EventCalendar](https://github.com/developer-diganta/EventCalendar)
+3. 🗣 Commented on [#16](https://github.com/EddieHubCommunity/EventCalendar/issues/16) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 🗣 Commented on [#9](https://github.com/EddieHubCommunity/EventCalendar/issues/9) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+5. 🗣 Commented on [#9](https://github.com/EddieHubCommunity/EventCalendar/issues/9) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
 </details>
