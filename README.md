@@ -34,7 +34,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 
 💬 Ask me about **open source, web development, and Node.js**
 
-📫 How to reach me: **krishguptadev@outlook.com**
+📫 Reach me out at **krishguptadev@outlook.com**
 
 📄 Know about my experiences [resume.krishguptadev.tech](resume.krishguptadev.tech)
 
