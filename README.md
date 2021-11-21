@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#135](https://github.com/eddiejaoude/stargate/pull/135) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. 🗣 Commented on [#128](https://github.com/eddiejaoude/stargate/issues/128) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. 🗣 Commented on [#131](https://github.com/eddiejaoude/stargate/issues/131) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. 🎉 Merged PR [#6](https://github.com/krishguptadev/krishguptadev/pull/6) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
-5. 🗣 Commented on [#679](https://github.com/EddieHubCommunity/LinkFree/issues/679) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#3](https://github.com/EddieHubCommunity/template/issues/3) in [EddieHubCommunity/template](https://github.com/EddieHubCommunity/template)
+2. 🗣 Commented on [#56](https://github.com/EddieHubCommunity/gh-action-community/issues/56) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+3. 🗣 Commented on [#56](https://github.com/EddieHubCommunity/gh-action-community/issues/56) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+4. 🗣 Commented on [#127](https://github.com/web3community/start-here/issues/127) in [web3community/start-here](https://github.com/web3community/start-here)
+5. 🗣 Commented on [#1713](https://github.com/EddieHubCommunity/support/issues/1713) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
