@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2964](https://github.com/EddieHubCommunity/support/issues/2964) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#652](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/652) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#636](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/636) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#634](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/634) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#630](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/630) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#681](https://github.com/EddieHubCommunity/LinkFree/issues/681) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#2964](https://github.com/EddieHubCommunity/support/issues/2964) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#652](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/652) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#636](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/636) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#634](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/634) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 </details>
