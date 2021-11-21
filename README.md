@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/krishguptadev/krishguptadev/pull/6) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
-2. 🗣 Commented on [#679](https://github.com/EddieHubCommunity/LinkFree/issues/679) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#679](https://github.com/EddieHubCommunity/LinkFree/issues/679) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/EventCalendar/issues/26) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-5. 🗣 Commented on [#2963](https://github.com/EddieHubCommunity/support/issues/2963) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#135](https://github.com/eddiejaoude/stargate/pull/135) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 🗣 Commented on [#128](https://github.com/eddiejaoude/stargate/issues/128) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+3. 🗣 Commented on [#131](https://github.com/eddiejaoude/stargate/issues/131) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+4. 🎉 Merged PR [#6](https://github.com/krishguptadev/krishguptadev/pull/6) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
+5. 🗣 Commented on [#679](https://github.com/EddieHubCommunity/LinkFree/issues/679) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
