@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/web3community/devprotocol.xyz/issues/153) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-2. 🗣 Commented on [#72](https://github.com/dev-protocol/community/issues/72) in [dev-protocol/community](https://github.com/dev-protocol/community)
-3. 🗣 Commented on [#2913](https://github.com/EddieHubCommunity/support/issues/2913) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 💪 Opened PR [#2](https://github.com/Rohit-kumar-yadav/Rohit-kumar-yadav/pull/2) in [Rohit-kumar-yadav/Rohit-kumar-yadav](https://github.com/Rohit-kumar-yadav/Rohit-kumar-yadav)
-5. 🗣 Commented on [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#56](https://github.com/EddieHubCommunity/gh-action-community/issues/56) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+2. 🗣 Commented on [#153](https://github.com/web3community/devprotocol.xyz/issues/153) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 🗣 Commented on [#72](https://github.com/dev-protocol/community/issues/72) in [dev-protocol/community](https://github.com/dev-protocol/community)
+4. 🗣 Commented on [#2913](https://github.com/EddieHubCommunity/support/issues/2913) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 💪 Opened PR [#2](https://github.com/Rohit-kumar-yadav/Rohit-kumar-yadav/pull/2) in [Rohit-kumar-yadav/Rohit-kumar-yadav](https://github.com/Rohit-kumar-yadav/Rohit-kumar-yadav)
 <!--END_SECTION:activity-->
 
 </details>
