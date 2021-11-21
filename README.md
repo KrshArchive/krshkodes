@@ -1,6 +1,6 @@
 ![](https://github.com/krishguptadev/krishguptadev/raw/main/banner.png)
 
-# Alola 👋, I'm Krish Gupta
+# Alola 👋 I'm Krish Gupta
 
 [![Discord](https://img.shields.io/badge/CodeEmAll%20Community%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://krish.ninja/discord)
 [![Instagram](https://img.shields.io/badge/%40krishguptadev%0A-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krishguptadev)
@@ -24,7 +24,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   
 🔭 I’m currently working on [Web3Community website](https://github.com/web3community/web3community.github.io)
 
-🌱 I’m currently learning **everything 🤓**
+🌱 I’m currently learning **everything** 🤓
 
 🤝 I’m looking for help with **finding projects to contribute to!**
 
@@ -32,13 +32,13 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 
 📝 I regularly write articles on [blog.krishguptadev.tech](https://blog.krishguptadev.tech)
 
-💬 Ask me about **open source, webdev and nodejs**
+💬 Ask me about **open source, web development, and Node.js**
 
-📫 How to reach me **krishguptadev@outlook.com**
+📫 Reach me out at **krishguptadev@outlook.com**
 
 📄 Know about my experiences [resume.krishguptadev.tech](resume.krishguptadev.tech)
 
-⚡ Fun fact **I'm just 13 and have gone through 13 professions in tech ✨**
+⚡ Fun fact: **I'm just 13 and have gone through 13 professions in tech ✨**
 
 </p> <br />
 
