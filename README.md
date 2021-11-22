@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/dev-protocol/community/issues/81) in [dev-protocol/community](https://github.com/dev-protocol/community)
-2. 🗣 Commented on [#81](https://github.com/EddieHubCommunity/gh-action-community/issues/81) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-3. 🗣 Commented on [#2966](https://github.com/EddieHubCommunity/support/issues/2966) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#48](https://github.com/nhcommunity/community/issues/48) in [nhcommunity/community](https://github.com/nhcommunity/community)
-5. 🗣 Commented on [#56](https://github.com/EddieHubCommunity/gh-action-community/issues/56) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+1. ❗️ Opened issue [#4](https://github.com/ewainy/ewainy/issues/4) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
+2. ❗️ Opened issue [#3](https://github.com/ewainy/ewainy/issues/3) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
+3. ❗️ Opened issue [#2](https://github.com/ewainy/ewainy/issues/2) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
+4. ❗️ Opened issue [#1](https://github.com/ewainy/ewainy/issues/1) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
+5. 🗣 Commented on [#682](https://github.com/EddieHubCommunity/LinkFree/issues/682) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
