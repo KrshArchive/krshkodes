@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/EddieHubCommunity/LinkFree/issues/682) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#48](https://github.com/EddieHubCommunity/EventCalendar/issues/48) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-3. 💪 Opened PR [#1](https://github.com/harshrai654/LinkFree/pull/1) in [harshrai654/LinkFree](https://github.com/harshrai654/LinkFree)
-4. 🗣 Commented on [#766](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/766) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. ❗️ Closed issue [#3](https://github.com/krishguptadev/Bin2Dec/issues/3) in [krishguptadev/Bin2Dec](https://github.com/krishguptadev/Bin2Dec)
+1. 🗣 Commented on [#84](https://github.com/dev-protocol/community/issues/84) in [dev-protocol/community](https://github.com/dev-protocol/community)
+2. 🗣 Commented on [#682](https://github.com/EddieHubCommunity/LinkFree/issues/682) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#48](https://github.com/EddieHubCommunity/EventCalendar/issues/48) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 💪 Opened PR [#1](https://github.com/harshrai654/LinkFree/pull/1) in [harshrai654/LinkFree](https://github.com/harshrai654/LinkFree)
+5. 🗣 Commented on [#766](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/766) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 </details>
