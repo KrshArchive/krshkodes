@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/ewainy/ewainy/issues/4) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
-2. ❗️ Opened issue [#3](https://github.com/ewainy/ewainy/issues/3) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
-3. ❗️ Opened issue [#2](https://github.com/ewainy/ewainy/issues/2) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
-4. ❗️ Opened issue [#1](https://github.com/ewainy/ewainy/issues/1) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
-5. 🗣 Commented on [#682](https://github.com/EddieHubCommunity/LinkFree/issues/682) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#2969](https://github.com/EddieHubCommunity/support/issues/2969) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#660](https://github.com/EddieHubCommunity/LinkFree/issues/660) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#690](https://github.com/EddieHubCommunity/LinkFree/issues/690) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#144](https://github.com/EddieHubCommunity/LinkFree/issues/144) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 💪 Opened PR [#6](https://github.com/ewainy/ewainy/pull/6) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
 <!--END_SECTION:activity-->
 
 </details>
