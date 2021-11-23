@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2982](https://github.com/EddieHubCommunity/support/issues/2982) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#1](https://github.com/rajlang/Syntax/issues/1) in [rajlang/Syntax](https://github.com/rajlang/Syntax)
-3. 💪 Opened PR [#1](https://github.com/rajlang/.github/pull/1) in [rajlang/.github](https://github.com/rajlang/.github)
-4. 🗣 Commented on [#2979](https://github.com/EddieHubCommunity/support/issues/2979) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#2978](https://github.com/EddieHubCommunity/support/issues/2978) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#128](https://github.com/web3community/start-here/issues/128) in [web3community/start-here](https://github.com/web3community/start-here)
+2. 🗣 Commented on [#2982](https://github.com/EddieHubCommunity/support/issues/2982) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Opened issue [#1](https://github.com/rajlang/Syntax/issues/1) in [rajlang/Syntax](https://github.com/rajlang/Syntax)
+4. 💪 Opened PR [#1](https://github.com/rajlang/.github/pull/1) in [rajlang/.github](https://github.com/rajlang/.github)
+5. 🗣 Commented on [#2979](https://github.com/EddieHubCommunity/support/issues/2979) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
