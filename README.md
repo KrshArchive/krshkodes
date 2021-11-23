@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2644](https://github.com/EddieHubCommunity/support/issues/2644) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#156](https://github.com/web3community/devprotocol.xyz/issues/156) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-3. 💪 Opened PR [#158](https://github.com/web3community/devprotocol.xyz/pull/158) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-4. 🗣 Commented on [#694](https://github.com/EddieHubCommunity/LinkFree/issues/694) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 💪 Opened PR [#157](https://github.com/web3community/devprotocol.xyz/pull/157) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+1. ❗️ Opened issue [#1](https://github.com/rajlang/Syntax/issues/1) in [rajlang/Syntax](https://github.com/rajlang/Syntax)
+2. 💪 Opened PR [#1](https://github.com/rajlang/.github/pull/1) in [rajlang/.github](https://github.com/rajlang/.github)
+3. ❗️ Opened issue [#5](https://github.com/rajlang/issues/issues/5) in [rajlang/issues](https://github.com/rajlang/issues)
+4. 🗣 Commented on [#2979](https://github.com/EddieHubCommunity/support/issues/2979) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#2978](https://github.com/EddieHubCommunity/support/issues/2978) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
