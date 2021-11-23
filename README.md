@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#694](https://github.com/EddieHubCommunity/LinkFree/issues/694) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#157](https://github.com/web3community/devprotocol.xyz/pull/157) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-3. 🗣 Commented on [#691](https://github.com/EddieHubCommunity/LinkFree/issues/691) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#693](https://github.com/EddieHubCommunity/LinkFree/issues/693) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#782](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/782) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#156](https://github.com/web3community/devprotocol.xyz/issues/156) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+2. 💪 Opened PR [#158](https://github.com/web3community/devprotocol.xyz/pull/158) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 🗣 Commented on [#694](https://github.com/EddieHubCommunity/LinkFree/issues/694) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#157](https://github.com/web3community/devprotocol.xyz/pull/157) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+5. 🗣 Commented on [#691](https://github.com/EddieHubCommunity/LinkFree/issues/691) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
