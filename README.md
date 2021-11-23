@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2973](https://github.com/EddieHubCommunity/support/issues/2973) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 💪 Opened PR [#2](https://github.com/eebbann/eebbann/pull/2) in [eebbann/eebbann](https://github.com/eebbann/eebbann)
-3. 🗣 Commented on [#2972](https://github.com/EddieHubCommunity/support/issues/2972) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#797](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/797) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#156](https://github.com/web3community/devprotocol.xyz/issues/156) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+1. 🗣 Commented on [#782](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/782) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#2973](https://github.com/EddieHubCommunity/support/issues/2973) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 💪 Opened PR [#2](https://github.com/eebbann/eebbann/pull/2) in [eebbann/eebbann](https://github.com/eebbann/eebbann)
+4. 🗣 Commented on [#2972](https://github.com/EddieHubCommunity/support/issues/2972) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#797](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/797) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 </details>
