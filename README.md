@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2967](https://github.com/EddieHubCommunity/support/issues/2967) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/Branding/issues/34) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🗣 Commented on [#2644](https://github.com/EddieHubCommunity/support/issues/2644) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#129](https://github.com/web3community/start-here/issues/129) in [web3community/start-here](https://github.com/web3community/start-here)
-5. 🗣 Commented on [#128](https://github.com/web3community/start-here/issues/128) in [web3community/start-here](https://github.com/web3community/start-here)
+1. 💪 Opened PR [#4](https://github.com/web3community/blog/pull/4) in [web3community/blog](https://github.com/web3community/blog)
+2. 🗣 Commented on [#690](https://github.com/EddieHubCommunity/LinkFree/issues/690) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#2967](https://github.com/EddieHubCommunity/support/issues/2967) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/Branding/issues/34) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+5. 🗣 Commented on [#2644](https://github.com/EddieHubCommunity/support/issues/2644) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
