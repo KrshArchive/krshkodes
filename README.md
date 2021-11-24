@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/krishguptadev/writing-javascript-actions/pull/4) in [krishguptadev/writing-javascript-actions](https://github.com/krishguptadev/writing-javascript-actions)
-2. 💪 Opened PR [#2](https://github.com/krishguptadev/writing-javascript-actions/pull/2) in [krishguptadev/writing-javascript-actions](https://github.com/krishguptadev/writing-javascript-actions)
-3. 🗣 Commented on [#2986](https://github.com/EddieHubCommunity/support/issues/2986) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#131](https://github.com/EddieHubCommunity/LinkFree/issues/131) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#2985](https://github.com/EddieHubCommunity/support/issues/2985) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#696](https://github.com/EddieHubCommunity/LinkFree/issues/696) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#4](https://github.com/krishguptadev/writing-javascript-actions/pull/4) in [krishguptadev/writing-javascript-actions](https://github.com/krishguptadev/writing-javascript-actions)
+3. 💪 Opened PR [#2](https://github.com/krishguptadev/writing-javascript-actions/pull/2) in [krishguptadev/writing-javascript-actions](https://github.com/krishguptadev/writing-javascript-actions)
+4. 🗣 Commented on [#2986](https://github.com/EddieHubCommunity/support/issues/2986) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#131](https://github.com/EddieHubCommunity/LinkFree/issues/131) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
