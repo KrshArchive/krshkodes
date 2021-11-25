@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#704](https://github.com/EddieHubCommunity/LinkFree/issues/704) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#5](https://github.com/krishguptadev/writing-javascript-actions/issues/5) in [krishguptadev/writing-javascript-actions](https://github.com/krishguptadev/writing-javascript-actions)
-3. 🗣 Commented on [#5](https://github.com/krishguptadev/writing-javascript-actions/issues/5) in [krishguptadev/writing-javascript-actions](https://github.com/krishguptadev/writing-javascript-actions)
-4. 💪 Opened PR [#704](https://github.com/EddieHubCommunity/LinkFree/pull/704) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#703](https://github.com/EddieHubCommunity/LinkFree/issues/703) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Closed issue [#6](https://github.com/web3community/blog/issues/6) in [web3community/blog](https://github.com/web3community/blog)
+2. 🗣 Commented on [#6](https://github.com/web3community/blog/issues/6) in [web3community/blog](https://github.com/web3community/blog)
+3. ❗️ Opened issue [#6](https://github.com/web3community/blog/issues/6) in [web3community/blog](https://github.com/web3community/blog)
+4. 🗣 Commented on [#5](https://github.com/web3community/blog/issues/5) in [web3community/blog](https://github.com/web3community/blog)
+5. ❗️ Closed issue [#216](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/216) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
 
 </details>
