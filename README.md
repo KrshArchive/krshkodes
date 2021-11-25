@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2989](https://github.com/EddieHubCommunity/support/issues/2989) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#2994](https://github.com/EddieHubCommunity/support/issues/2994) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#4](https://github.com/avneesh0612/avneesh0612/pull/4) in [avneesh0612/avneesh0612](https://github.com/avneesh0612/avneesh0612)
-4. 🗣 Commented on [#2993](https://github.com/EddieHubCommunity/support/issues/2993) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#32](https://github.com/Alphasians/AinaBot/issues/32) in [Alphasians/AinaBot](https://github.com/Alphasians/AinaBot)
+1. 💪 Opened PR [#33](https://github.com/Alphasians/AinaBot/pull/33) in [Alphasians/AinaBot](https://github.com/Alphasians/AinaBot)
+2. 🗣 Commented on [#3](https://github.com/avneesh0612/avneesh0612/issues/3) in [avneesh0612/avneesh0612](https://github.com/avneesh0612/avneesh0612)
+3. 🗣 Commented on [#2995](https://github.com/EddieHubCommunity/support/issues/2995) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Opened issue [#6](https://github.com/avneesh0612/portfolio-template/issues/6) in [avneesh0612/portfolio-template](https://github.com/avneesh0612/portfolio-template)
+5. 🗣 Commented on [#2992](https://github.com/EddieHubCommunity/support/issues/2992) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
