@@ -71,9 +71,9 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/dev-protocol/hashi-web/issues/14) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
 2. 🗣 Commented on [#14](https://github.com/dev-protocol/hashi-web/issues/14) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
-3. 🗣 Commented on [#704](https://github.com/EddieHubCommunity/LinkFree/issues/704) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#161](https://github.com/web3community/devprotocol.xyz/issues/161) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-5. 🗣 Commented on [#5](https://github.com/web3community/blog/issues/5) in [web3community/blog](https://github.com/web3community/blog)
+3. 🗣 Commented on [#14](https://github.com/dev-protocol/hashi-web/issues/14) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
+4. 🗣 Commented on [#704](https://github.com/EddieHubCommunity/LinkFree/issues/704) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#161](https://github.com/web3community/devprotocol.xyz/issues/161) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
 <!--END_SECTION:activity-->
 
 </details>
