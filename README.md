@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2991](https://github.com/EddieHubCommunity/support/issues/2991) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#701](https://github.com/EddieHubCommunity/LinkFree/issues/701) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#704](https://github.com/EddieHubCommunity/LinkFree/issues/704) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❌ Closed PR [#79](https://github.com/EddieHubCommunity/EventCalendar/pull/79) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-5. 🎉 Merged PR [#161](https://github.com/web3community/devprotocol.xyz/pull/161) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+1. 💪 Opened PR [#4](https://github.com/avneesh0612/avneesh0612/pull/4) in [avneesh0612/avneesh0612](https://github.com/avneesh0612/avneesh0612)
+2. 🗣 Commented on [#2993](https://github.com/EddieHubCommunity/support/issues/2993) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#32](https://github.com/Alphasians/AinaBot/issues/32) in [Alphasians/AinaBot](https://github.com/Alphasians/AinaBot)
+4. 🗣 Commented on [#2990](https://github.com/EddieHubCommunity/support/issues/2990) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Opened issue [#3](https://github.com/avneesh0612/avneesh0612/issues/3) in [avneesh0612/avneesh0612](https://github.com/avneesh0612/avneesh0612)
 <!--END_SECTION:activity-->
 
 </details>
