@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/web3community/blog/issues/7) in [web3community/blog](https://github.com/web3community/blog)
+1. 🗣 Commented on [#2999](https://github.com/EddieHubCommunity/support/issues/2999) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. 🗣 Commented on [#7](https://github.com/web3community/blog/issues/7) in [web3community/blog](https://github.com/web3community/blog)
-3. 🗣 Commented on [#51](https://github.com/nhcommunity/community/issues/51) in [nhcommunity/community](https://github.com/nhcommunity/community)
-4. 🗣 Commented on [#86](https://github.com/dev-protocol/community/issues/86) in [dev-protocol/community](https://github.com/dev-protocol/community)
-5. 🗣 Commented on [#696](https://github.com/EddieHubCommunity/LinkFree/issues/696) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#7](https://github.com/web3community/blog/issues/7) in [web3community/blog](https://github.com/web3community/blog)
+4. 🗣 Commented on [#51](https://github.com/nhcommunity/community/issues/51) in [nhcommunity/community](https://github.com/nhcommunity/community)
+5. 🗣 Commented on [#86](https://github.com/dev-protocol/community/issues/86) in [dev-protocol/community](https://github.com/dev-protocol/community)
 <!--END_SECTION:activity-->
 
 </details>
