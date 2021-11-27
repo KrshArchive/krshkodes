@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#220](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/220) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. ❗️ Opened issue [#219](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/219) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 💪 Opened PR [#724](https://github.com/EddieHubCommunity/LinkFree/pull/724) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❗️ Opened issue [#723](https://github.com/EddieHubCommunity/LinkFree/issues/723) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❌ Closed PR [#41](https://github.com/EddieHubCommunity/Hackathons/pull/41) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+1. ❗️ Opened issue [#3004](https://github.com/EddieHubCommunity/support/issues/3004) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#83](https://github.com/EddieHubCommunity/EventCalendar/issues/83) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+3. ❗️ Opened issue [#82](https://github.com/EddieHubCommunity/EventCalendar/issues/82) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. ❗️ Opened issue [#868](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/868) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. ❗️ Opened issue [#27](https://github.com/EddieHubCommunity/transcriptions/issues/27) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
 <!--END_SECTION:activity-->
 
 </details>
