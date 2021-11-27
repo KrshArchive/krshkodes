@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/web3community/start-here/issues/133) in [web3community/start-here](https://github.com/web3community/start-here)
-2. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Hackathons/issues/42) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-3. ❗️ Closed issue [#6](https://github.com/avneesh0612/portfolio-template/issues/6) in [avneesh0612/portfolio-template](https://github.com/avneesh0612/portfolio-template)
-4. 💪 Opened PR [#725](https://github.com/EddieHubCommunity/LinkFree/pull/725) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#241](https://github.com/EddieHubCommunity/api/issues/241) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#153](https://github.com/EddieHubCommunity/LinkFree/issues/153) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#504](https://github.com/EddieHubCommunity/LinkFree/issues/504) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#133](https://github.com/web3community/start-here/issues/133) in [web3community/start-here](https://github.com/web3community/start-here)
+4. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Hackathons/issues/42) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+5. ❗️ Closed issue [#6](https://github.com/avneesh0612/portfolio-template/issues/6) in [avneesh0612/portfolio-template](https://github.com/avneesh0612/portfolio-template)
 <!--END_SECTION:activity-->
 
 </details>
