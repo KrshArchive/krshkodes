@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#241](https://github.com/EddieHubCommunity/api/issues/241) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Opened issue [#42](https://github.com/EddieHubCommunity/Hackathons/issues/42) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-3. ❗️ Opened issue [#34](https://github.com/EddieHubCommunity/EddieBotBreakout/issues/34) in [EddieHubCommunity/EddieBotBreakout](https://github.com/EddieHubCommunity/EddieBotBreakout)
-4. ❗️ Opened issue [#678](https://github.com/EddieHubCommunity/EddieBot/issues/678) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Opened issue [#37](https://github.com/EddieHubCommunity/Branding/issues/37) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🗣 Commented on [#241](https://github.com/EddieHubCommunity/api/issues/241) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. ❗️ Opened issue [#241](https://github.com/EddieHubCommunity/api/issues/241) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Opened issue [#42](https://github.com/EddieHubCommunity/Hackathons/issues/42) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+4. ❗️ Opened issue [#34](https://github.com/EddieHubCommunity/EddieBotBreakout/issues/34) in [EddieHubCommunity/EddieBotBreakout](https://github.com/EddieHubCommunity/EddieBotBreakout)
+5. ❗️ Opened issue [#678](https://github.com/EddieHubCommunity/EddieBot/issues/678) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 </details>
