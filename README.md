@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Hackathons/issues/42) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-2. ❗️ Closed issue [#6](https://github.com/avneesh0612/portfolio-template/issues/6) in [avneesh0612/portfolio-template](https://github.com/avneesh0612/portfolio-template)
-3. 💪 Opened PR [#725](https://github.com/EddieHubCommunity/LinkFree/pull/725) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#241](https://github.com/EddieHubCommunity/api/issues/241) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. ❗️ Opened issue [#241](https://github.com/EddieHubCommunity/api/issues/241) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#133](https://github.com/web3community/start-here/issues/133) in [web3community/start-here](https://github.com/web3community/start-here)
+2. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Hackathons/issues/42) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+3. ❗️ Closed issue [#6](https://github.com/avneesh0612/portfolio-template/issues/6) in [avneesh0612/portfolio-template](https://github.com/avneesh0612/portfolio-template)
+4. 💪 Opened PR [#725](https://github.com/EddieHubCommunity/LinkFree/pull/725) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#241](https://github.com/EddieHubCommunity/api/issues/241) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 </details>
