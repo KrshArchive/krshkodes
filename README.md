@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/EddieHubCommunity/.github/issues/21) in [EddieHubCommunity/.github](https://github.com/EddieHubCommunity/.github)
-2. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/.github/issues/26) in [EddieHubCommunity/.github](https://github.com/EddieHubCommunity/.github)
-3. 🗣 Commented on [#616](https://github.com/EddieHubCommunity/LinkFree/issues/616) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❗️ Opened issue [#21](https://github.com/EddieHubCommunity/.github/issues/21) in [EddieHubCommunity/.github](https://github.com/EddieHubCommunity/.github)
-5. 💪 Opened PR [#41](https://github.com/EddieHubCommunity/Hackathons/pull/41) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+1. 🗣 Commented on [#4](https://github.com/EddieHubCommunity/.github/issues/4) in [EddieHubCommunity/.github](https://github.com/EddieHubCommunity/.github)
+2. ❗️ Closed issue [#21](https://github.com/EddieHubCommunity/.github/issues/21) in [EddieHubCommunity/.github](https://github.com/EddieHubCommunity/.github)
+3. 🗣 Commented on [#21](https://github.com/EddieHubCommunity/.github/issues/21) in [EddieHubCommunity/.github](https://github.com/EddieHubCommunity/.github)
+4. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/.github/issues/26) in [EddieHubCommunity/.github](https://github.com/EddieHubCommunity/.github)
+5. 🗣 Commented on [#616](https://github.com/EddieHubCommunity/LinkFree/issues/616) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
