@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3010](https://github.com/EddieHubCommunity/support/issues/3010) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#690](https://github.com/EddieHubCommunity/LinkFree/issues/690) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#3009](https://github.com/EddieHubCommunity/support/issues/3009) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#3008](https://github.com/EddieHubCommunity/support/issues/3008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🎉 Merged PR [#163](https://github.com/web3community/devprotocol.xyz/pull/163) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+1. 🗣 Commented on [#29](https://github.com/EddieHubCommunity/.github/issues/29) in [EddieHubCommunity/.github](https://github.com/EddieHubCommunity/.github)
+2. 🗣 Commented on [#134](https://github.com/web3community/start-here/issues/134) in [web3community/start-here](https://github.com/web3community/start-here)
+3. 🗣 Commented on [#728](https://github.com/EddieHubCommunity/LinkFree/issues/728) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#3010](https://github.com/EddieHubCommunity/support/issues/3010) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#690](https://github.com/EddieHubCommunity/LinkFree/issues/690) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
