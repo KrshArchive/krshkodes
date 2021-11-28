@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#775](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/775) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#775](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/775) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 💪 Opened PR [#775](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/775) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#222](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/222) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 🗣 Commented on [#738](https://github.com/EddieHubCommunity/LinkFree/issues/738) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❌ Closed PR [#8](https://github.com/web3community/blog/pull/8) in [web3community/blog](https://github.com/web3community/blog)
+2. 🗣 Commented on [#3012](https://github.com/EddieHubCommunity/support/issues/3012) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❌ Closed PR [#775](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/775) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#775](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/775) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 💪 Opened PR [#775](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/775) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 </details>
