@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#679](https://github.com/EddieHubCommunity/EddieBot/pull/679) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#88](https://github.com/dev-protocol/community/issues/88) in [dev-protocol/community](https://github.com/dev-protocol/community)
-3. 🗣 Commented on [#672](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/672) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#776](https://github.com/EddieHubCommunity/support/issues/776) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#776](https://github.com/EddieHubCommunity/support/issues/776) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#400](https://github.com/EddieHubCommunity/LinkFree/issues/400) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#737](https://github.com/EddieHubCommunity/LinkFree/pull/737) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#736](https://github.com/EddieHubCommunity/LinkFree/issues/736) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#735](https://github.com/EddieHubCommunity/LinkFree/pull/735) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❗️ Opened issue [#734](https://github.com/EddieHubCommunity/LinkFree/issues/734) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
