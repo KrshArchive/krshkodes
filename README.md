@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/AnishDe12020/devkit/pull/21) in [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit)
-2. 🗣 Commented on [#19](https://github.com/AnishDe12020/devkit/issues/19) in [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit)
-3. 🗣 Commented on [#743](https://github.com/EddieHubCommunity/LinkFree/issues/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 💪 Opened PR [#29](https://github.com/avneesh0612/ChatCube/pull/29) in [avneesh0612/ChatCube](https://github.com/avneesh0612/ChatCube)
-5. 🗣 Commented on [#3013](https://github.com/EddieHubCommunity/support/issues/3013) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Opened issue [#3](https://github.com/prykdev/P-riyanka-prasad/issues/3) in [prykdev/P-riyanka-prasad](https://github.com/prykdev/P-riyanka-prasad)
+2. 💪 Opened PR [#21](https://github.com/AnishDe12020/devkit/pull/21) in [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit)
+3. 🗣 Commented on [#19](https://github.com/AnishDe12020/devkit/issues/19) in [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit)
+4. 🗣 Commented on [#743](https://github.com/EddieHubCommunity/LinkFree/issues/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 💪 Opened PR [#29](https://github.com/avneesh0612/ChatCube/pull/29) in [avneesh0612/ChatCube](https://github.com/avneesh0612/ChatCube)
 <!--END_SECTION:activity-->
 
 </details>
