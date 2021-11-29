@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/nhcommunity/community/issues/52) in [nhcommunity/community](https://github.com/nhcommunity/community)
-2. 🗣 Commented on [#874](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/874) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❌ Closed PR [#175](https://github.com/appwrite/demos-for-functions/pull/175) in [appwrite/demos-for-functions](https://github.com/appwrite/demos-for-functions)
-4. ❌ Closed PR [#188](https://github.com/appwrite/demos-for-functions/pull/188) in [appwrite/demos-for-functions](https://github.com/appwrite/demos-for-functions)
-5. 🗣 Commented on [#743](https://github.com/EddieHubCommunity/LinkFree/issues/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#874](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/874) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#52](https://github.com/nhcommunity/community/issues/52) in [nhcommunity/community](https://github.com/nhcommunity/community)
+3. 🗣 Commented on [#874](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/874) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. ❌ Closed PR [#175](https://github.com/appwrite/demos-for-functions/pull/175) in [appwrite/demos-for-functions](https://github.com/appwrite/demos-for-functions)
+5. ❌ Closed PR [#188](https://github.com/appwrite/demos-for-functions/pull/188) in [appwrite/demos-for-functions](https://github.com/appwrite/demos-for-functions)
 <!--END_SECTION:activity-->
 
 </details>
