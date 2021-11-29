@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#743](https://github.com/EddieHubCommunity/LinkFree/issues/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#29](https://github.com/avneesh0612/ChatCube/pull/29) in [avneesh0612/ChatCube](https://github.com/avneesh0612/ChatCube)
-3. 🗣 Commented on [#3013](https://github.com/EddieHubCommunity/support/issues/3013) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#777](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/777) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 💪 Opened PR [#36](https://github.com/qwe123coder/qwe123coder/pull/36) in [qwe123coder/qwe123coder](https://github.com/qwe123coder/qwe123coder)
+1. 🗣 Commented on [#19](https://github.com/AnishDe12020/devkit/issues/19) in [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit)
+2. 🗣 Commented on [#743](https://github.com/EddieHubCommunity/LinkFree/issues/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 💪 Opened PR [#29](https://github.com/avneesh0612/ChatCube/pull/29) in [avneesh0612/ChatCube](https://github.com/avneesh0612/ChatCube)
+4. 🗣 Commented on [#3013](https://github.com/EddieHubCommunity/support/issues/3013) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#777](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/777) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 </details>
