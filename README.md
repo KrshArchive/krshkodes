@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/kr-anurag/gradient-deck/pull/2) in [kr-anurag/gradient-deck](https://github.com/kr-anurag/gradient-deck)
-2. 💪 Opened PR [#51](https://github.com/kr-anurag/formie/pull/51) in [kr-anurag/formie](https://github.com/kr-anurag/formie)
-3. 🗣 Commented on [#50](https://github.com/kr-anurag/formie/issues/50) in [kr-anurag/formie](https://github.com/kr-anurag/formie)
-4. 💪 Opened PR [#24](https://github.com/AnishDe12020/devkit/pull/24) in [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit)
-5. 💪 Opened PR [#22](https://github.com/AnishDe12020/devkit/pull/22) in [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit)
+1. 💪 Opened PR [#42](https://github.com/qwe123coder/qwe123coder/pull/42) in [qwe123coder/qwe123coder](https://github.com/qwe123coder/qwe123coder)
+2. 💪 Opened PR [#2](https://github.com/kr-anurag/gradient-deck/pull/2) in [kr-anurag/gradient-deck](https://github.com/kr-anurag/gradient-deck)
+3. 💪 Opened PR [#51](https://github.com/kr-anurag/formie/pull/51) in [kr-anurag/formie](https://github.com/kr-anurag/formie)
+4. 🗣 Commented on [#50](https://github.com/kr-anurag/formie/issues/50) in [kr-anurag/formie](https://github.com/kr-anurag/formie)
+5. 💪 Opened PR [#24](https://github.com/AnishDe12020/devkit/pull/24) in [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit)
 <!--END_SECTION:activity-->
 
 </details>
