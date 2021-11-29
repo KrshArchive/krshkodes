@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#188](https://github.com/appwrite/demos-for-functions/pull/188) in [appwrite/demos-for-functions](https://github.com/appwrite/demos-for-functions)
-2. 🗣 Commented on [#743](https://github.com/EddieHubCommunity/LinkFree/issues/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❌ Closed PR [#175](https://github.com/appwrite/demos-for-functions/pull/175) in [appwrite/demos-for-functions](https://github.com/appwrite/demos-for-functions)
+2. ❌ Closed PR [#188](https://github.com/appwrite/demos-for-functions/pull/188) in [appwrite/demos-for-functions](https://github.com/appwrite/demos-for-functions)
 3. 🗣 Commented on [#743](https://github.com/EddieHubCommunity/LinkFree/issues/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#3016](https://github.com/EddieHubCommunity/support/issues/3016) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#3017](https://github.com/EddieHubCommunity/support/issues/3017) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#743](https://github.com/EddieHubCommunity/LinkFree/issues/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#3016](https://github.com/EddieHubCommunity/support/issues/3016) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
