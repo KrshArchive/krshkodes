@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3013](https://github.com/EddieHubCommunity/support/issues/3013) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#777](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/777) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 💪 Opened PR [#36](https://github.com/qwe123coder/qwe123coder/pull/36) in [qwe123coder/qwe123coder](https://github.com/qwe123coder/qwe123coder)
-4. 💪 Opened PR [#34](https://github.com/qwe123coder/qwe123coder/pull/34) in [qwe123coder/qwe123coder](https://github.com/qwe123coder/qwe123coder)
-5. 💪 Opened PR [#743](https://github.com/EddieHubCommunity/LinkFree/pull/743) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 💪 Opened PR [#29](https://github.com/avneesh0612/ChatCube/pull/29) in [avneesh0612/ChatCube](https://github.com/avneesh0612/ChatCube)
+2. 🗣 Commented on [#3013](https://github.com/EddieHubCommunity/support/issues/3013) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#777](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/777) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 💪 Opened PR [#36](https://github.com/qwe123coder/qwe123coder/pull/36) in [qwe123coder/qwe123coder](https://github.com/qwe123coder/qwe123coder)
+5. 💪 Opened PR [#34](https://github.com/qwe123coder/qwe123coder/pull/34) in [qwe123coder/qwe123coder](https://github.com/qwe123coder/qwe123coder)
 <!--END_SECTION:activity-->
 
 </details>
