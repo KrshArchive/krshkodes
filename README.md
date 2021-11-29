@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/AnishDe12020/AnishDe12020/pull/14) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
-2. 💪 Opened PR [#13](https://github.com/AnishDe12020/AnishDe12020/pull/13) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
-3. ❗️ Opened issue [#12](https://github.com/AnishDe12020/AnishDe12020/issues/12) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
-4. ❗️ Opened issue [#11](https://github.com/AnishDe12020/AnishDe12020/issues/11) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
-5. 💪 Opened PR [#10](https://github.com/AnishDe12020/AnishDe12020/pull/10) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+1. 🗣 Commented on [#3018](https://github.com/EddieHubCommunity/support/issues/3018) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#14](https://github.com/AnishDe12020/AnishDe12020/pull/14) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+3. 💪 Opened PR [#13](https://github.com/AnishDe12020/AnishDe12020/pull/13) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+4. ❗️ Opened issue [#12](https://github.com/AnishDe12020/AnishDe12020/issues/12) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+5. ❗️ Opened issue [#11](https://github.com/AnishDe12020/AnishDe12020/issues/11) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
 <!--END_SECTION:activity-->
 
 </details>
