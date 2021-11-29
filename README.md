@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#875](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/875) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#3018](https://github.com/EddieHubCommunity/support/issues/3018) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#14](https://github.com/AnishDe12020/AnishDe12020/pull/14) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
-4. 💪 Opened PR [#13](https://github.com/AnishDe12020/AnishDe12020/pull/13) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
-5. ❗️ Opened issue [#12](https://github.com/AnishDe12020/AnishDe12020/issues/12) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+1. 🗣 Commented on [#3019](https://github.com/EddieHubCommunity/support/issues/3019) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#135](https://github.com/web3community/start-here/issues/135) in [web3community/start-here](https://github.com/web3community/start-here)
+3. 🗣 Commented on [#875](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/875) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#875](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/875) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#3018](https://github.com/EddieHubCommunity/support/issues/3018) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
