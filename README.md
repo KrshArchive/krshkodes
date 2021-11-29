@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/avneesh0612/voyagger/issues/20) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
-2. ❗️ Opened issue [#19](https://github.com/avneesh0612/voyagger/issues/19) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
-3. ❗️ Opened issue [#18](https://github.com/avneesh0612/voyagger/issues/18) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
-4. 🗣 Commented on [#874](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/874) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#52](https://github.com/nhcommunity/community/issues/52) in [nhcommunity/community](https://github.com/nhcommunity/community)
+1. 💪 Opened PR [#14](https://github.com/AnishDe12020/AnishDe12020/pull/14) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+2. 💪 Opened PR [#13](https://github.com/AnishDe12020/AnishDe12020/pull/13) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+3. ❗️ Opened issue [#12](https://github.com/AnishDe12020/AnishDe12020/issues/12) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+4. ❗️ Opened issue [#11](https://github.com/AnishDe12020/AnishDe12020/issues/11) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
+5. 💪 Opened PR [#10](https://github.com/AnishDe12020/AnishDe12020/pull/10) in [AnishDe12020/AnishDe12020](https://github.com/AnishDe12020/AnishDe12020)
 <!--END_SECTION:activity-->
 
 </details>
