@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AnishDe12020/custom-scrollbar-extension/issues/1) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
-2. 🗣 Commented on [#605](https://github.com/EddieHubCommunity/LinkFree/issues/605) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#27](https://github.com/EddieHubCommunity/transcriptions/issues/27) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-4. 💪 Opened PR [#139](https://github.com/github/.github/pull/139) in [github/.github](https://github.com/github/.github)
-5. 💪 Opened PR [#8253](https://github.com/github/feedback/pull/8253) in [github/feedback](https://github.com/github/feedback)
+1. 🗣 Commented on [#142](https://github.com/web3community/web3community.github.io/issues/142) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+2. 🗣 Commented on [#1](https://github.com/AnishDe12020/custom-scrollbar-extension/issues/1) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
+3. 🗣 Commented on [#605](https://github.com/EddieHubCommunity/LinkFree/issues/605) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#27](https://github.com/EddieHubCommunity/transcriptions/issues/27) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+5. 💪 Opened PR [#139](https://github.com/github/.github/pull/139) in [github/.github](https://github.com/github/.github)
 <!--END_SECTION:activity-->
 
 </details>
