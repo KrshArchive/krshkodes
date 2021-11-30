@@ -22,23 +22,23 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   
 <p>
   
-🔭 I’m currently working on [Web3Community website](https://github.com/web3community/web3community.github.io)
+- 🔭 I’m currently working on [Web3Community website](https://github.com/web3community/web3community.github.io)
 
-🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **everything** 🤓
 
-🤝 I’m looking for help with **finding projects to contribute to!**
+- 🤝 I’m looking for help with **finding projects to contribute to!**
 
-👨‍💻 All of my projects are available at [krishguptadev.tech](https://krishguptadev.tech)
+- 👨‍💻 All of my projects are available at [krishguptadev.tech](https://krishguptadev.tech)
 
-📝 I regularly write articles on [blog.krishguptadev.tech](https://blog.krishguptadev.tech)
+- 📝 I regularly write articles on [blog.krishguptadev.tech](https://blog.krishguptadev.tech)
 
-💬 Ask me about **open source, web development, and Node.js**
+- 💬 Ask me about **open source, web development, and Node.js**
 
-📫 Reach me out at **krishguptadev@outlook.com**
+- 📫 Reach me out at **krishguptadev@outlook.com**
 
-📄 Know about my experiences [resume.krishguptadev.tech](resume.krishguptadev.tech)
+- 📄 Know about my experiences [resume.krishguptadev.tech](resume.krishguptadev.tech)
 
-⚡ Fun fact: **I'm just 13 and have gone through 13 professions in tech ✨**
+- ⚡ Fun fact: **I'm just 13 and have gone through 13 professions in tech ✨**
 
 </p> <br />
 
