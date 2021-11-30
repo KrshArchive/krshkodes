@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/4) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
-2. ❗️ Opened issue [#3](https://github.com/AnishDe12020/custom-scrollbar-extension/issues/3) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
-3. 🎉 Merged PR [#165](https://github.com/web3community/devprotocol.xyz/pull/165) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-4. 🗣 Commented on [#744](https://github.com/EddieHubCommunity/LinkFree/issues/744) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#3019](https://github.com/EddieHubCommunity/support/issues/3019) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#5](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/5) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
+2. 💪 Opened PR [#4](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/4) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
+3. ❗️ Opened issue [#3](https://github.com/AnishDe12020/custom-scrollbar-extension/issues/3) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
+4. 🎉 Merged PR [#165](https://github.com/web3community/devprotocol.xyz/pull/165) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+5. 🗣 Commented on [#744](https://github.com/EddieHubCommunity/LinkFree/issues/744) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
