@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/krishguptadev/krishguptadev/issues/8) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
-2. 🗣 Commented on [#8](https://github.com/krishguptadev/krishguptadev/issues/8) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
-3. ❗️ Opened issue [#7](https://github.com/krishguptadev/krishguptadev/issues/7) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
-4. 🗣 Commented on [#21](https://github.com/avneesh0612/voyagger/issues/21) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
-5. 💪 Opened PR [#7](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/7) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
+1. 🗣 Commented on [#22](https://github.com/avneesh0612/voyagger/issues/22) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
+2. ❗️ Closed issue [#8](https://github.com/krishguptadev/krishguptadev/issues/8) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
+3. 🗣 Commented on [#8](https://github.com/krishguptadev/krishguptadev/issues/8) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
+4. ❗️ Opened issue [#7](https://github.com/krishguptadev/krishguptadev/issues/7) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
+5. 🗣 Commented on [#21](https://github.com/avneesh0612/voyagger/issues/21) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
 <!--END_SECTION:activity-->
 
 </details>
