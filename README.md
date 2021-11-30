@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#139](https://github.com/github/.github/pull/139) in [github/.github](https://github.com/github/.github)
-2. 💪 Opened PR [#8253](https://github.com/github/feedback/pull/8253) in [github/feedback](https://github.com/github/feedback)
-3. 🎉 Merged PR [#11](https://github.com/krishguptadev/krishguptadev/pull/11) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
-4. ❗️ Closed issue [#10](https://github.com/krishguptadev/krishguptadev/issues/10) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
-5. 🗣 Commented on [#10](https://github.com/krishguptadev/krishguptadev/issues/10) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
+1. 🗣 Commented on [#605](https://github.com/EddieHubCommunity/LinkFree/issues/605) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#27](https://github.com/EddieHubCommunity/transcriptions/issues/27) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+3. 💪 Opened PR [#139](https://github.com/github/.github/pull/139) in [github/.github](https://github.com/github/.github)
+4. 💪 Opened PR [#8253](https://github.com/github/feedback/pull/8253) in [github/feedback](https://github.com/github/feedback)
+5. 🎉 Merged PR [#11](https://github.com/krishguptadev/krishguptadev/pull/11) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
 <!--END_SECTION:activity-->
 
 </details>
