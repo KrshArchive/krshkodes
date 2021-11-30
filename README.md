@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/avneesh0612/voyagger/issues/21) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
-2. 💪 Opened PR [#7](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/7) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
-3. 💪 Opened PR [#6](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/6) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
-4. 💪 Opened PR [#5](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/5) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
-5. 💪 Opened PR [#4](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/4) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
+1. ❗️ Opened issue [#7](https://github.com/krishguptadev/krishguptadev/issues/7) in [krishguptadev/krishguptadev](https://github.com/krishguptadev/krishguptadev)
+2. 🗣 Commented on [#21](https://github.com/avneesh0612/voyagger/issues/21) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
+3. 💪 Opened PR [#7](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/7) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
+4. 💪 Opened PR [#6](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/6) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
+5. 💪 Opened PR [#5](https://github.com/AnishDe12020/custom-scrollbar-extension/pull/5) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
 <!--END_SECTION:activity-->
 
 </details>
