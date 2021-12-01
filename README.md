@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#861](https://github.com/pret/pokecrystal/pull/861) in [pret/pokecrystal](https://github.com/pret/pokecrystal)
-2. 💪 Opened PR [#1374](https://github.com/algolia/algoliasearch-client-javascript/pull/1374) in [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript)
-3. ❗️ Closed issue [#22](https://github.com/avneesh0612/voyagger/issues/22) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
-4. 💪 Opened PR [#749](https://github.com/EddieHubCommunity/LinkFree/pull/749) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🎉 Merged PR [#175](https://github.com/web3community/devprotocol.xyz/pull/175) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+1. 🗣 Commented on [#750](https://github.com/EddieHubCommunity/LinkFree/issues/750) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#752](https://github.com/EddieHubCommunity/LinkFree/issues/752) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#751](https://github.com/EddieHubCommunity/LinkFree/issues/751) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#750](https://github.com/EddieHubCommunity/LinkFree/pull/750) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 💪 Opened PR [#861](https://github.com/pret/pokecrystal/pull/861) in [pret/pokecrystal](https://github.com/pret/pokecrystal)
 <!--END_SECTION:activity-->
 
 </details>
