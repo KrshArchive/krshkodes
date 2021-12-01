@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#175](https://github.com/web3community/devprotocol.xyz/pull/175) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-2. ❗️ Closed issue [#162](https://github.com/web3community/devprotocol.xyz/issues/162) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-3. 🗣 Commented on [#26](https://github.com/avneesh0612/voyagger/issues/26) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
-4. 💪 Opened PR [#26](https://github.com/avneesh0612/voyagger/pull/26) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
-5. 💪 Opened PR [#748](https://github.com/EddieHubCommunity/LinkFree/pull/748) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 💪 Opened PR [#749](https://github.com/EddieHubCommunity/LinkFree/pull/749) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#175](https://github.com/web3community/devprotocol.xyz/pull/175) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. ❗️ Closed issue [#162](https://github.com/web3community/devprotocol.xyz/issues/162) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+4. 🗣 Commented on [#26](https://github.com/avneesh0612/voyagger/issues/26) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
+5. 💪 Opened PR [#26](https://github.com/avneesh0612/voyagger/pull/26) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
 <!--END_SECTION:activity-->
 
 </details>
