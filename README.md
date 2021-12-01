@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AnishDe12020/custom-scrollbar-extension/issues/1) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
-2. 🎉 Merged PR [#142](https://github.com/web3community/web3community.github.io/pull/142) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-3. 🎉 Merged PR [#174](https://github.com/web3community/devprotocol.xyz/pull/174) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-4. ❗️ Closed issue [#173](https://github.com/web3community/devprotocol.xyz/issues/173) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-5. 🗣 Commented on [#142](https://github.com/web3community/web3community.github.io/issues/142) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+1. 🗣 Commented on [#26](https://github.com/avneesh0612/voyagger/issues/26) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
+2. 💪 Opened PR [#26](https://github.com/avneesh0612/voyagger/pull/26) in [avneesh0612/voyagger](https://github.com/avneesh0612/voyagger)
+3. 💪 Opened PR [#748](https://github.com/EddieHubCommunity/LinkFree/pull/748) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#175](https://github.com/web3community/devprotocol.xyz/pull/175) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+5. 🗣 Commented on [#1](https://github.com/AnishDe12020/custom-scrollbar-extension/issues/1) in [AnishDe12020/custom-scrollbar-extension](https://github.com/AnishDe12020/custom-scrollbar-extension)
 <!--END_SECTION:activity-->
 
 </details>
