@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#680](https://github.com/EddieHubCommunity/EddieBot/issues/680) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❌ Closed PR [#1374](https://github.com/algolia/algoliasearch-client-javascript/pull/1374) in [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript)
-3. 🗣 Commented on [#749](https://github.com/EddieHubCommunity/LinkFree/issues/749) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#750](https://github.com/EddieHubCommunity/LinkFree/issues/750) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗️ Opened issue [#752](https://github.com/EddieHubCommunity/LinkFree/issues/752) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 💪 Opened PR [#20](https://github.com/dev-protocol/hashi-web/pull/20) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
+2. ❗️ Opened issue [#680](https://github.com/EddieHubCommunity/EddieBot/issues/680) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❌ Closed PR [#1374](https://github.com/algolia/algoliasearch-client-javascript/pull/1374) in [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript)
+4. 🗣 Commented on [#749](https://github.com/EddieHubCommunity/LinkFree/issues/749) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#750](https://github.com/EddieHubCommunity/LinkFree/issues/750) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
