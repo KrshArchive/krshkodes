@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#779](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/779) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#618](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/618) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#52](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/52) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#678](https://github.com/EddieHubCommunity/EddieBot/issues/678) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🗣 Commented on [#39](https://github.com/EddieHubCommunity/Branding/issues/39) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🎉 Merged PR [#181](https://github.com/web3community/devprotocol.xyz/pull/181) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+2. ❗️ Closed issue [#178](https://github.com/web3community/devprotocol.xyz/issues/178) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 🎉 Merged PR [#779](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/779) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#618](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/618) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#52](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/52) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 </details>
