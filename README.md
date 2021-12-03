@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/LearnWithCommunity/support/pull/3) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-2. 💪 Opened PR [#3](https://github.com/LearnWithCommunity/support/pull/3) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-3. 🗣 Commented on [#13](https://github.com/krishguptadev/open-source-best-practices/issues/13) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-4. ❗️ Closed issue [#179](https://github.com/web3community/devprotocol.xyz/issues/179) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-5. 🎉 Merged PR [#184](https://github.com/web3community/devprotocol.xyz/pull/184) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+1. 🎉 Merged PR [#5](https://github.com/LearnWithCommunity/support/pull/5) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+2. 💪 Opened PR [#5](https://github.com/LearnWithCommunity/support/pull/5) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+3. 🎉 Merged PR [#3](https://github.com/LearnWithCommunity/support/pull/3) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+4. 💪 Opened PR [#3](https://github.com/LearnWithCommunity/support/pull/3) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+5. 🗣 Commented on [#13](https://github.com/krishguptadev/open-source-best-practices/issues/13) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
 <!--END_SECTION:activity-->
 
 </details>
