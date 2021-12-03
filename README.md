@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/krishguptadev/open-source-best-practices/pull/11) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-2. ❗️ Closed issue [#3](https://github.com/krishguptadev/open-source-best-practices/issues/3) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-3. 🗣 Commented on [#10](https://github.com/krishguptadev/open-source-best-practices/issues/10) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-4. ❗️ Closed issue [#10](https://github.com/krishguptadev/open-source-best-practices/issues/10) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-5. 🗣 Commented on [#10](https://github.com/krishguptadev/open-source-best-practices/issues/10) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+1. 🗣 Commented on [#757](https://github.com/EddieHubCommunity/LinkFree/issues/757) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#11](https://github.com/krishguptadev/open-source-best-practices/pull/11) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+3. ❗️ Closed issue [#3](https://github.com/krishguptadev/open-source-best-practices/issues/3) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+4. 🗣 Commented on [#10](https://github.com/krishguptadev/open-source-best-practices/issues/10) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+5. ❗️ Closed issue [#10](https://github.com/krishguptadev/open-source-best-practices/issues/10) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
 <!--END_SECTION:activity-->
 
 </details>
