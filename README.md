@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/52) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#678](https://github.com/EddieHubCommunity/EddieBot/issues/678) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🗣 Commented on [#39](https://github.com/EddieHubCommunity/Branding/issues/39) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 💪 Opened PR [#39](https://github.com/EddieHubCommunity/Branding/pull/39) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 💪 Opened PR [#760](https://github.com/EddieHubCommunity/LinkFree/pull/760) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🎉 Merged PR [#779](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/779) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#618](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/618) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#52](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/52) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#678](https://github.com/EddieHubCommunity/EddieBot/issues/678) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🗣 Commented on [#39](https://github.com/EddieHubCommunity/Branding/issues/39) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
 
 </details>
