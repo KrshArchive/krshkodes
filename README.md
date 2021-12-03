@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/LearnWithCommunity/support/pull/1) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-2. 💪 Opened PR [#1](https://github.com/LearnWithCommunity/support/pull/1) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-3. 🎉 Merged PR [#177](https://github.com/web3community/devprotocol.xyz/pull/177) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-4. ❗️ Closed issue [#176](https://github.com/web3community/devprotocol.xyz/issues/176) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-5. 🎉 Merged PR [#181](https://github.com/web3community/devprotocol.xyz/pull/181) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+1. 🗣 Commented on [#2](https://github.com/krishguptadev/open-source-best-practices/issues/2) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+2. ❗️ Closed issue [#2](https://github.com/krishguptadev/open-source-best-practices/issues/2) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+3. 🎉 Merged PR [#1](https://github.com/LearnWithCommunity/support/pull/1) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+4. 💪 Opened PR [#1](https://github.com/LearnWithCommunity/support/pull/1) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+5. 🎉 Merged PR [#177](https://github.com/web3community/devprotocol.xyz/pull/177) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
 <!--END_SECTION:activity-->
 
 </details>
