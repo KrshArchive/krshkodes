@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/web3community/devprotocol.xyz/pull/181) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-2. ❗️ Closed issue [#178](https://github.com/web3community/devprotocol.xyz/issues/178) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-3. 🎉 Merged PR [#779](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/779) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#618](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/618) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#52](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/52) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#177](https://github.com/web3community/devprotocol.xyz/pull/177) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+2. ❗️ Closed issue [#176](https://github.com/web3community/devprotocol.xyz/issues/176) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 🎉 Merged PR [#181](https://github.com/web3community/devprotocol.xyz/pull/181) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+4. ❗️ Closed issue [#178](https://github.com/web3community/devprotocol.xyz/issues/178) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+5. 🎉 Merged PR [#779](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/779) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 </details>
