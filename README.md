@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/krishguptadev/open-source-best-practices/issues/1) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-2. 🗣 Commented on [#2](https://github.com/krishguptadev/open-source-best-practices/issues/2) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-3. ❗️ Closed issue [#2](https://github.com/krishguptadev/open-source-best-practices/issues/2) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-4. 🎉 Merged PR [#1](https://github.com/LearnWithCommunity/support/pull/1) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-5. 💪 Opened PR [#1](https://github.com/LearnWithCommunity/support/pull/1) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+1. 🗣 Commented on [#5](https://github.com/krishguptadev/open-source-best-practices/issues/5) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+2. 🗣 Commented on [#1](https://github.com/krishguptadev/open-source-best-practices/issues/1) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+3. 🗣 Commented on [#2](https://github.com/krishguptadev/open-source-best-practices/issues/2) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+4. ❗️ Closed issue [#2](https://github.com/krishguptadev/open-source-best-practices/issues/2) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+5. 🎉 Merged PR [#1](https://github.com/LearnWithCommunity/support/pull/1) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
