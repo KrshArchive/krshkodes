@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#757](https://github.com/EddieHubCommunity/LinkFree/issues/757) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#11](https://github.com/krishguptadev/open-source-best-practices/pull/11) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-3. ❗️ Closed issue [#3](https://github.com/krishguptadev/open-source-best-practices/issues/3) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-4. 🗣 Commented on [#10](https://github.com/krishguptadev/open-source-best-practices/issues/10) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-5. ❗️ Closed issue [#10](https://github.com/krishguptadev/open-source-best-practices/issues/10) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+1. 🗣 Commented on [#13](https://github.com/krishguptadev/open-source-best-practices/issues/13) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+2. ❗️ Closed issue [#179](https://github.com/web3community/devprotocol.xyz/issues/179) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 🎉 Merged PR [#184](https://github.com/web3community/devprotocol.xyz/pull/184) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+4. 🗣 Commented on [#6](https://github.com/Sawo-Community/Sawo-Docs/issues/6) in [Sawo-Community/Sawo-Docs](https://github.com/Sawo-Community/Sawo-Docs)
+5. 🗣 Commented on [#12](https://github.com/krishguptadev/open-source-best-practices/issues/12) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
 <!--END_SECTION:activity-->
 
 </details>
