@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/LearnWithCommunity/support/pull/9) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-2. 💪 Opened PR [#9](https://github.com/LearnWithCommunity/support/pull/9) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-3. 🎉 Merged PR [#8](https://github.com/LearnWithCommunity/support/pull/8) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-4. 💪 Opened PR [#8](https://github.com/LearnWithCommunity/support/pull/8) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-5. 🎉 Merged PR [#7](https://github.com/LearnWithCommunity/support/pull/7) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+1. 🎉 Merged PR [#10](https://github.com/LearnWithCommunity/support/pull/10) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+2. 💪 Opened PR [#10](https://github.com/LearnWithCommunity/support/pull/10) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+3. 🎉 Merged PR [#9](https://github.com/LearnWithCommunity/support/pull/9) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+4. 💪 Opened PR [#9](https://github.com/LearnWithCommunity/support/pull/9) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+5. 🎉 Merged PR [#8](https://github.com/LearnWithCommunity/support/pull/8) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
