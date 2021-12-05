@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/krishguptadev/open-source-best-practices/pull/17) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-2. ❗️ Closed issue [#8](https://github.com/krishguptadev/open-source-best-practices/issues/8) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-3. 🗣 Commented on [#17](https://github.com/krishguptadev/open-source-best-practices/issues/17) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-4. 🗣 Commented on [#8](https://github.com/krishguptadev/open-source-best-practices/issues/8) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-5. 🗣 Commented on [#3040](https://github.com/EddieHubCommunity/support/issues/3040) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#3](https://github.com/prykdev/prykdev/issues/3) in [prykdev/prykdev](https://github.com/prykdev/prykdev)
+2. 🎉 Merged PR [#17](https://github.com/krishguptadev/open-source-best-practices/pull/17) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+3. ❗️ Closed issue [#8](https://github.com/krishguptadev/open-source-best-practices/issues/8) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+4. 🗣 Commented on [#17](https://github.com/krishguptadev/open-source-best-practices/issues/17) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+5. 🗣 Commented on [#8](https://github.com/krishguptadev/open-source-best-practices/issues/8) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
 <!--END_SECTION:activity-->
 
 </details>
