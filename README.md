@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/LearnWithCommunity/support/issues/13) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-2. ❗️ Opened issue [#13](https://github.com/LearnWithCommunity/support/issues/13) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-3. 🗣 Commented on [#39](https://github.com/EddieHubCommunity/Branding/issues/39) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. ❗️ Opened issue [#769](https://github.com/EddieHubCommunity/LinkFree/issues/769) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Closed issue [#13](https://github.com/LearnWithCommunity/support/issues/13) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+3. ❗️ Opened issue [#13](https://github.com/LearnWithCommunity/support/issues/13) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
 4. 🗣 Commented on [#39](https://github.com/EddieHubCommunity/Branding/issues/39) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🗣 Commented on [#14](https://github.com/krishguptadev/open-source-best-practices/issues/14) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+5. 🗣 Commented on [#39](https://github.com/EddieHubCommunity/Branding/issues/39) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
 
 </details>
