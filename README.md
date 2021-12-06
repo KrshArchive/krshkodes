@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/LearnWithCommunity/support/issues/21) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-2. ❌ Closed PR [#18](https://github.com/LearnWithCommunity/support/pull/18) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-3. 🎉 Merged PR [#19](https://github.com/krishguptadev/open-source-best-practices/pull/19) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-4. 🗣 Commented on [#4](https://github.com/devstrons/devstrons.hackclub.com/issues/4) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
-5. 🎉 Merged PR [#6](https://github.com/devstrons/devstrons.hackclub.com/pull/6) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
+1. 💪 Opened PR [#1](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io/pull/1) in [Aditya-Narayan-Nayak/AdditionGame.io](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io)
+2. 🗣 Commented on [#21](https://github.com/LearnWithCommunity/support/issues/21) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+3. ❌ Closed PR [#18](https://github.com/LearnWithCommunity/support/pull/18) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+4. 🎉 Merged PR [#19](https://github.com/krishguptadev/open-source-best-practices/pull/19) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+5. 🗣 Commented on [#4](https://github.com/devstrons/devstrons.hackclub.com/issues/4) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
 <!--END_SECTION:activity-->
 
 </details>
