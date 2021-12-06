@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/krishguptadev/open-source-best-practices/pull/19) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-2. 🗣 Commented on [#4](https://github.com/devstrons/devstrons.hackclub.com/issues/4) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
-3. 🎉 Merged PR [#6](https://github.com/devstrons/devstrons.hackclub.com/pull/6) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
-4. 🗣 Commented on [#5](https://github.com/devstrons/devstrons.hackclub.com/issues/5) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
-5. 🗣 Commented on [#4](https://github.com/devstrons/devstrons.hackclub.com/issues/4) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
+1. ❌ Closed PR [#18](https://github.com/LearnWithCommunity/support/pull/18) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+2. 🎉 Merged PR [#19](https://github.com/krishguptadev/open-source-best-practices/pull/19) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+3. 🗣 Commented on [#4](https://github.com/devstrons/devstrons.hackclub.com/issues/4) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
+4. 🎉 Merged PR [#6](https://github.com/devstrons/devstrons.hackclub.com/pull/6) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
+5. 🗣 Commented on [#5](https://github.com/devstrons/devstrons.hackclub.com/issues/5) in [devstrons/devstrons.hackclub.com](https://github.com/devstrons/devstrons.hackclub.com)
 <!--END_SECTION:activity-->
 
 </details>
