@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/LearnWithCommunity/support/pull/24) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-2. 🎉 Merged PR [#21](https://github.com/LearnWithCommunity/support/pull/21) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-3. 🎉 Merged PR [#24](https://github.com/dev-protocol/hashi-web/pull/24) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
-4. 💪 Opened PR [#1](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io/pull/1) in [Aditya-Narayan-Nayak/AdditionGame.io](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io)
-5. 🗣 Commented on [#21](https://github.com/LearnWithCommunity/support/issues/21) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+1. 🗣 Commented on [#773](https://github.com/EddieHubCommunity/LinkFree/issues/773) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#24](https://github.com/LearnWithCommunity/support/pull/24) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+3. 🎉 Merged PR [#21](https://github.com/LearnWithCommunity/support/pull/21) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+4. 🎉 Merged PR [#24](https://github.com/dev-protocol/hashi-web/pull/24) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
+5. 💪 Opened PR [#1](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io/pull/1) in [Aditya-Narayan-Nayak/AdditionGame.io](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io)
 <!--END_SECTION:activity-->
 
 </details>
