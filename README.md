@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/dev-protocol/hashi-web/pull/24) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
-2. 💪 Opened PR [#1](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io/pull/1) in [Aditya-Narayan-Nayak/AdditionGame.io](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io)
-3. 🗣 Commented on [#21](https://github.com/LearnWithCommunity/support/issues/21) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-4. ❌ Closed PR [#18](https://github.com/LearnWithCommunity/support/pull/18) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-5. 🎉 Merged PR [#19](https://github.com/krishguptadev/open-source-best-practices/pull/19) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+1. 🎉 Merged PR [#21](https://github.com/LearnWithCommunity/support/pull/21) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+2. 🎉 Merged PR [#24](https://github.com/dev-protocol/hashi-web/pull/24) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
+3. 💪 Opened PR [#1](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io/pull/1) in [Aditya-Narayan-Nayak/AdditionGame.io](https://github.com/Aditya-Narayan-Nayak/AdditionGame.io)
+4. 🗣 Commented on [#21](https://github.com/LearnWithCommunity/support/issues/21) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+5. ❌ Closed PR [#18](https://github.com/LearnWithCommunity/support/pull/18) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
