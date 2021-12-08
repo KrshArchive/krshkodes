@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#88](https://github.com/resetercss/reseter.css/issues/88) in [resetercss/reseter.css](https://github.com/resetercss/reseter.css)
-2. 🗣 Commented on [#20](https://github.com/krishguptadev/open-source-best-practices/issues/20) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-3. ❗️ Opened issue [#21](https://github.com/krishguptadev/open-source-best-practices/issues/21) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-4. ❗️ Opened issue [#20](https://github.com/krishguptadev/open-source-best-practices/issues/20) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-5. 🗣 Commented on [#579](https://github.com/EddieHubCommunity/LinkFree/issues/579) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Closed issue [#20](https://github.com/krishguptadev/open-source-best-practices/issues/20) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+2. 🎉 Merged PR [#22](https://github.com/krishguptadev/open-source-best-practices/pull/22) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+3. 💪 Opened PR [#2](https://github.com/Kira272921/Kira272921/pull/2) in [Kira272921/Kira272921](https://github.com/Kira272921/Kira272921)
+4. ❗️ Opened issue [#88](https://github.com/resetercss/reseter.css/issues/88) in [resetercss/reseter.css](https://github.com/resetercss/reseter.css)
+5. 🗣 Commented on [#20](https://github.com/krishguptadev/open-source-best-practices/issues/20) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
 <!--END_SECTION:activity-->
 
 </details>
