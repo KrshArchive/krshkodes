@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#626](https://github.com/EddieHubCommunity/EddieBot/issues/626) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#47](https://github.com/EddieHubCommunity/EddieBotUI/issues/47) in [EddieHubCommunity/EddieBotUI](https://github.com/EddieHubCommunity/EddieBotUI)
-3. 🗣 Commented on [#3](https://github.com/EddieHubCommunity/template/issues/3) in [EddieHubCommunity/template](https://github.com/EddieHubCommunity/template)
-4. 🗣 Commented on [#25](https://github.com/EddieHubCommunity/EventCalendar/issues/25) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-5. 🗣 Commented on [#64](https://github.com/EddieHubCommunity/EventCalendar/issues/64) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🗣 Commented on [#214](https://github.com/EddieHubCommunity/api/issues/214) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#626](https://github.com/EddieHubCommunity/EddieBot/issues/626) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#47](https://github.com/EddieHubCommunity/EddieBotUI/issues/47) in [EddieHubCommunity/EddieBotUI](https://github.com/EddieHubCommunity/EddieBotUI)
+4. 🗣 Commented on [#3](https://github.com/EddieHubCommunity/template/issues/3) in [EddieHubCommunity/template](https://github.com/EddieHubCommunity/template)
+5. 🗣 Commented on [#25](https://github.com/EddieHubCommunity/EventCalendar/issues/25) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
 </details>
