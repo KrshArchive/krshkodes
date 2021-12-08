@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/krishguptadev/open-source-best-practices/issues/20) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-2. 🎉 Merged PR [#22](https://github.com/krishguptadev/open-source-best-practices/pull/22) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-3. 💪 Opened PR [#2](https://github.com/Kira272921/Kira272921/pull/2) in [Kira272921/Kira272921](https://github.com/Kira272921/Kira272921)
-4. ❗️ Opened issue [#88](https://github.com/resetercss/reseter.css/issues/88) in [resetercss/reseter.css](https://github.com/resetercss/reseter.css)
-5. 🗣 Commented on [#20](https://github.com/krishguptadev/open-source-best-practices/issues/20) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+1. 🎉 Merged PR [#1](https://github.com/krishguptadev/.github/pull/1) in [krishguptadev/.github](https://github.com/krishguptadev/.github)
+2. 💪 Opened PR [#1](https://github.com/krishguptadev/.github/pull/1) in [krishguptadev/.github](https://github.com/krishguptadev/.github)
+3. ❗️ Opened issue [#27](https://github.com/LearnWithCommunity/support/issues/27) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+4. ❗️ Opened issue [#3](https://github.com/Kira272921/Kira272921/issues/3) in [Kira272921/Kira272921](https://github.com/Kira272921/Kira272921)
+5. ❗️ Closed issue [#20](https://github.com/krishguptadev/open-source-best-practices/issues/20) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
 <!--END_SECTION:activity-->
 
 </details>
