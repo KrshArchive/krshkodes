@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#504](https://github.com/EddieHubCommunity/LinkFree/issues/504) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#190](https://github.com/web3community/devprotocol.xyz/pull/190) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-3. 🎉 Merged PR [#26](https://github.com/dev-protocol/hashi-web/pull/26) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
-4. 🗣 Commented on [#778](https://github.com/EddieHubCommunity/LinkFree/issues/778) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#3040](https://github.com/EddieHubCommunity/support/issues/3040) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#626](https://github.com/EddieHubCommunity/EddieBot/issues/626) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#47](https://github.com/EddieHubCommunity/EddieBotUI/issues/47) in [EddieHubCommunity/EddieBotUI](https://github.com/EddieHubCommunity/EddieBotUI)
+3. 🗣 Commented on [#3](https://github.com/EddieHubCommunity/template/issues/3) in [EddieHubCommunity/template](https://github.com/EddieHubCommunity/template)
+4. 🗣 Commented on [#25](https://github.com/EddieHubCommunity/EventCalendar/issues/25) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+5. 🗣 Commented on [#64](https://github.com/EddieHubCommunity/EventCalendar/issues/64) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
 </details>
