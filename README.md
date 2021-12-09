@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#480](https://github.com/EddieHubCommunity/LinkFree/issues/480) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#785](https://github.com/EddieHubCommunity/LinkFree/issues/785) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🎉 Merged PR [#1](https://github.com/krishguptadev/krishguptadev.tech/pull/1) in [krishguptadev/krishguptadev.tech](https://github.com/krishguptadev/krishguptadev.tech)
-4. ❗️ Closed issue [#27](https://github.com/LearnWithCommunity/support/issues/27) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
-5. 🎉 Merged PR [#28](https://github.com/LearnWithCommunity/support/pull/28) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+1. 🗣 Commented on [#788](https://github.com/EddieHubCommunity/LinkFree/issues/788) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#480](https://github.com/EddieHubCommunity/LinkFree/issues/480) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#785](https://github.com/EddieHubCommunity/LinkFree/issues/785) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🎉 Merged PR [#1](https://github.com/krishguptadev/krishguptadev.tech/pull/1) in [krishguptadev/krishguptadev.tech](https://github.com/krishguptadev/krishguptadev.tech)
+5. ❗️ Closed issue [#27](https://github.com/LearnWithCommunity/support/issues/27) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
