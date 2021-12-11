@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
-2. 🗣 Commented on [#798](https://github.com/EddieHubCommunity/LinkFree/issues/798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Branding/issues/42) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Branding/issues/42) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🎉 Merged PR [#782](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/782) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
+2. ❗️ Closed issue [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
+3. ❗️ Opened issue [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
+4. 🗣 Commented on [#798](https://github.com/EddieHubCommunity/LinkFree/issues/798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Branding/issues/42) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
 
 </details>
