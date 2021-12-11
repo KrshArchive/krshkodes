@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Branding/issues/42) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🗣 Commented on [#798](https://github.com/EddieHubCommunity/LinkFree/issues/798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 2. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Branding/issues/42) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🎉 Merged PR [#782](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/782) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#783](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/783) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#193](https://github.com/web3community/devprotocol.xyz/pull/193) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Branding/issues/42) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+4. 🎉 Merged PR [#782](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/782) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#783](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/783) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 </details>
