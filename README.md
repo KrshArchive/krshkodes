@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/dev-protocol/community/pull/99) in [dev-protocol/community](https://github.com/dev-protocol/community)
-2. 💪 Opened PR [#7](https://github.com/devstrons/devsrequests/pull/7) in [devstrons/devsrequests](https://github.com/devstrons/devsrequests)
-3. 🗣 Commented on [#29](https://github.com/dev-protocol/hashi-web/issues/29) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
-4. 🎉 Merged PR [#25](https://github.com/web3community/DEV-NFT/pull/25) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
-5. 🎉 Merged PR [#29](https://github.com/LearnWithCommunity/support/pull/29) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+1. 🗣 Commented on [#8](https://github.com/elenajp/elenajp/issues/8) in [elenajp/elenajp](https://github.com/elenajp/elenajp)
+2. 🎉 Merged PR [#784](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/784) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#99](https://github.com/dev-protocol/community/pull/99) in [dev-protocol/community](https://github.com/dev-protocol/community)
+4. 💪 Opened PR [#7](https://github.com/devstrons/devsrequests/pull/7) in [devstrons/devsrequests](https://github.com/devstrons/devsrequests)
+5. 🗣 Commented on [#29](https://github.com/dev-protocol/hashi-web/issues/29) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
 <!--END_SECTION:activity-->
 
 </details>
