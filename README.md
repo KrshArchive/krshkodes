@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
-2. ❗️ Closed issue [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
-3. ❗️ Opened issue [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
-4. 🗣 Commented on [#798](https://github.com/EddieHubCommunity/LinkFree/issues/798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#42](https://github.com/EddieHubCommunity/Branding/issues/42) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🗣 Commented on [#29](https://github.com/dev-protocol/hashi-web/issues/29) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
+2. 🎉 Merged PR [#25](https://github.com/web3community/DEV-NFT/pull/25) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
+3. 🎉 Merged PR [#29](https://github.com/LearnWithCommunity/support/pull/29) in [LearnWithCommunity/support](https://github.com/LearnWithCommunity/support)
+4. 🗣 Commented on [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
+5. ❗️ Closed issue [#131](https://github.com/withastro/astro-language-tools/issues/131) in [withastro/astro-language-tools](https://github.com/withastro/astro-language-tools)
 <!--END_SECTION:activity-->
 
 </details>
