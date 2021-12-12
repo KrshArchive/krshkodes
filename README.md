@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/web3community/DEV-NFT/pull/31) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
-2. 💪 Opened PR [#31](https://github.com/web3community/DEV-NFT/pull/31) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
-3. 💪 Opened PR [#30](https://github.com/web3community/DEV-NFT/pull/30) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
-4. 🗣 Commented on [#8](https://github.com/elenajp/elenajp/issues/8) in [elenajp/elenajp](https://github.com/elenajp/elenajp)
-5. 🎉 Merged PR [#784](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/784) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#798](https://github.com/EddieHubCommunity/LinkFree/issues/798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#31](https://github.com/web3community/DEV-NFT/pull/31) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
+3. 💪 Opened PR [#31](https://github.com/web3community/DEV-NFT/pull/31) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
+4. 💪 Opened PR [#30](https://github.com/web3community/DEV-NFT/pull/30) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
+5. 🗣 Commented on [#8](https://github.com/elenajp/elenajp/issues/8) in [elenajp/elenajp](https://github.com/elenajp/elenajp)
 <!--END_SECTION:activity-->
 
 </details>
