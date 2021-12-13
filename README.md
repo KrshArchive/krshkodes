@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/krishguptadev/Bin2Dec/pull/7) in [krishguptadev/Bin2Dec](https://github.com/krishguptadev/Bin2Dec)
-2. ❗️ Opened issue [#3106](https://github.com/EddieHubCommunity/support/issues/3106) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#3105](https://github.com/EddieHubCommunity/support/issues/3105) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#3104](https://github.com/EddieHubCommunity/support/issues/3104) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Opened issue [#3103](https://github.com/EddieHubCommunity/support/issues/3103) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#1743](https://github.com/EddieHubCommunity/support/issues/1743) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1736](https://github.com/EddieHubCommunity/support/issues/1736) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1715](https://github.com/EddieHubCommunity/support/issues/1715) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#7](https://github.com/krishguptadev/Bin2Dec/pull/7) in [krishguptadev/Bin2Dec](https://github.com/krishguptadev/Bin2Dec)
+5. ❗️ Opened issue [#3106](https://github.com/EddieHubCommunity/support/issues/3106) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
