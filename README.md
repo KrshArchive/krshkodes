@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CeruleanCodersComm/.github/pull/1) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
-2. 💪 Opened PR [#1](https://github.com/CeruleanCodersComm/.github/pull/1) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
-3. 🗣 Commented on [#798](https://github.com/EddieHubCommunity/LinkFree/issues/798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#31](https://github.com/web3community/DEV-NFT/pull/31) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
-5. 💪 Opened PR [#31](https://github.com/web3community/DEV-NFT/pull/31) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
+1. 🗣 Commented on [#1](https://github.com/Kira272921/snowball-bot/issues/1) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
+2. 🗣 Commented on [#2](https://github.com/Kira272921/snowball-bot/issues/2) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
+3. 🎉 Merged PR [#1](https://github.com/CeruleanCodersComm/.github/pull/1) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
+4. 💪 Opened PR [#1](https://github.com/CeruleanCodersComm/.github/pull/1) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
+5. 🗣 Commented on [#798](https://github.com/EddieHubCommunity/LinkFree/issues/798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
