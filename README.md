@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Kira272921/snowball-bot/issues/1) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
-2. 🗣 Commented on [#2](https://github.com/Kira272921/snowball-bot/issues/2) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
-3. 🎉 Merged PR [#1](https://github.com/CeruleanCodersComm/.github/pull/1) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
-4. 💪 Opened PR [#1](https://github.com/CeruleanCodersComm/.github/pull/1) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
-5. 🗣 Commented on [#798](https://github.com/EddieHubCommunity/LinkFree/issues/798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#3104](https://github.com/EddieHubCommunity/support/issues/3104) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#3103](https://github.com/EddieHubCommunity/support/issues/3103) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Opened issue [#3102](https://github.com/EddieHubCommunity/support/issues/3102) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#805](https://github.com/EddieHubCommunity/LinkFree/issues/805) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#1](https://github.com/Kira272921/snowball-bot/issues/1) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
 <!--END_SECTION:activity-->
 
 </details>
