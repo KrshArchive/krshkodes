@@ -2,7 +2,7 @@
 
 # Alola 👋 I'm Krish Gupta
 
-[![Discord](https://img.shields.io/badge/CodeEmAll%20Community%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://krish.ninja/discord)
+[![Discord](https://img.shields.io/badge/Cerulean%20Coders%0A-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://krish.ninja/discord)
 [![Instagram](https://img.shields.io/badge/%40krishguptadev%0A-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krishguptadev)
 [![Outlook](https://img.shields.io/badge/E%20Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:krishguptadev@outlook.com)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://poly.work/krishguptadev)
