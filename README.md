@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
-2. 🗣 Commented on [#1864](https://github.com/EddieHubCommunity/support/issues/1864) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1862](https://github.com/EddieHubCommunity/support/issues/1862) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1830](https://github.com/EddieHubCommunity/support/issues/1830) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#1761](https://github.com/EddieHubCommunity/support/issues/1761) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
+2. ❗️ Opened issue [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
+3. 🗣 Commented on [#1864](https://github.com/EddieHubCommunity/support/issues/1864) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#1862](https://github.com/EddieHubCommunity/support/issues/1862) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1830](https://github.com/EddieHubCommunity/support/issues/1830) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
