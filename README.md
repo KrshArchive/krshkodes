@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
-2. ❗️ Opened issue [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
-3. 🗣 Commented on [#1864](https://github.com/EddieHubCommunity/support/issues/1864) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1862](https://github.com/EddieHubCommunity/support/issues/1862) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#1830](https://github.com/EddieHubCommunity/support/issues/1830) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❌ Closed PR [#816](https://github.com/EddieHubCommunity/LinkFree/pull/816) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#816](https://github.com/EddieHubCommunity/LinkFree/pull/816) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
+4. ❗️ Opened issue [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
+5. 🗣 Commented on [#1864](https://github.com/EddieHubCommunity/support/issues/1864) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
