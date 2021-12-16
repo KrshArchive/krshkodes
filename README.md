@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/web3community/web3community.github.io/pull/147) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-2. ❌ Closed PR [#816](https://github.com/EddieHubCommunity/LinkFree/pull/816) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#816](https://github.com/EddieHubCommunity/LinkFree/pull/816) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
-5. ❗️ Opened issue [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
+1. 🎉 Merged PR [#195](https://github.com/web3community/devprotocol.xyz/pull/195) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+2. 🎉 Merged PR [#147](https://github.com/web3community/web3community.github.io/pull/147) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+3. ❌ Closed PR [#816](https://github.com/EddieHubCommunity/LinkFree/pull/816) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#816](https://github.com/EddieHubCommunity/LinkFree/pull/816) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#2](https://github.com/CeruleanCodersComm/.github/issues/2) in [CeruleanCodersComm/.github](https://github.com/CeruleanCodersComm/.github)
 <!--END_SECTION:activity-->
 
 </details>
