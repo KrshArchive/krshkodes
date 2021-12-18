@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#873](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/873) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#819](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/819) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#741](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/741) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#925](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/925) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#920](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/920) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#927](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/927) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 💪 Opened PR [#926](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/926) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#873](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/873) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#819](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/819) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#741](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/741) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 </details>
