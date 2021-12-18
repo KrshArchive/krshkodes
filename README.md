@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#920](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/920) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#926](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/926) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#18](https://github.com/krishguptadev/open-source-best-practices/issues/18) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
-4. 🗣 Commented on [#106](https://github.com/EddieHubCommunity/LinkFree/issues/106) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 💪 Opened PR [#927](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/927) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#618](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/618) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#920](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/920) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#926](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/926) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#18](https://github.com/krishguptadev/open-source-best-practices/issues/18) in [krishguptadev/open-source-best-practices](https://github.com/krishguptadev/open-source-best-practices)
+5. 🗣 Commented on [#106](https://github.com/EddieHubCommunity/LinkFree/issues/106) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
