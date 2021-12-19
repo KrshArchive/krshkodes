@@ -15,8 +15,6 @@
 Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my tech journey on **30th September 2021**. Since then, I am learning new things and growing my network. I love to **chat, collaborate and contribute**. I am an open sourcer, that's my complete bio.
 
 </p> <br />
-
-<br />
   
 <p>
   
@@ -41,11 +39,17 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 </p> <br />
 
 <details>
-  <summary>📈 Show GitHub Stats</summary>
+  <summary>🏆 GitHub Trophee</summary>
   <br />
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=krishguptadev&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true">
-  <br>
+  </p>
+</details>
+
+<details>
+  <summary>📈 Show GitHub Stats</summary>
+  <br />
+  <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
   </p>
@@ -61,19 +65,5 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 - [Complete Introduction to open source!](https://blog.krishguptadev.tech/complete-introduction-to-open-source)
 - [Appwrite: All you need to know](https://blog.krishguptadev.tech/appwrite-all-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<details>
-  <summary>⚡Latest GitHub Activity</summary>
-  <br />
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#828](https://github.com/EddieHubCommunity/LinkFree/pull/828) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#827](https://github.com/EddieHubCommunity/LinkFree/pull/827) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#811](https://github.com/EddieHubCommunity/LinkFree/issues/811) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#789](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/789) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. ❌ Closed PR [#201](https://github.com/web3community/devprotocol.xyz/pull/201) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
-<!--END_SECTION:activity-->
 
 </details>
