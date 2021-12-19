@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/dev-protocol/community/pull/101) in [dev-protocol/community](https://github.com/dev-protocol/community)
-2. 💪 Opened PR [#684](https://github.com/EddieHubCommunity/EddieBot/pull/684) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 💪 Opened PR [#683](https://github.com/EddieHubCommunity/EddieBot/pull/683) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#618](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/618) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#920](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/920) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#33](https://github.com/dev-protocol/hashi-web/issues/33) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
+2. 🗣 Commented on [#824](https://github.com/EddieHubCommunity/LinkFree/issues/824) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🎉 Merged PR [#17](https://github.com/dev-protocol/.github/pull/17) in [dev-protocol/.github](https://github.com/dev-protocol/.github)
+4. 🎉 Merged PR [#101](https://github.com/dev-protocol/community/pull/101) in [dev-protocol/community](https://github.com/dev-protocol/community)
+5. 💪 Opened PR [#684](https://github.com/EddieHubCommunity/EddieBot/pull/684) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 </details>
