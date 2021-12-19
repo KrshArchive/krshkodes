@@ -1,4 +1,4 @@
-![](https://github.com/krishguptadev/krishguptadev/raw/main/banner.png)
+[![](https://github.com/krishguptadev/krishguptadev/raw/main/banner.png)](https://krishguptadev.tech/)
 
 # Alola 👋 I'm Krish Gupta
 
