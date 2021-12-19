@@ -11,28 +11,30 @@
 ### A passionate student developer from India, looking forward to learn tech
 
 <p>
-
+  
 Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my tech journey on **30th September 2021**. Since then, I am learning new things and growing my network. I love to **chat, collaborate and contribute**. I am an open sourcer, that's my complete bio.
 
-</p> <br />
+<details>
+  <summary>🧑 More about me</summary>
+  <br />
+
+🔭 I’m currently working on [Cerulean Coders](https://github.com/CeruleanCodersComm)
+
+🌱 I’m currently learning **everything** 🤓
+
+🤝 I’m looking for help with **finding projects to contribute to!**
+
+👨‍💻 All of my projects are available at [krishguptadev.tech](https://krishguptadev.tech)
+
+📝 I regularly write articles on [blog.krishguptadev.tech](https://blog.krishguptadev.tech)
+
+💬 Ask me about **open source, web development, and Node.js**
+
+📫 Reach me out at **krishguptadev@outlook.com**
+
+</details>
   
-<p>
-  
-- 🔭 I’m currently working on [Cerulean Coders](https://github.com/CeruleanCodersComm)
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [krishguptadev.tech](https://krishguptadev.tech)
-
-- 📝 I regularly write articles on [blog.krishguptadev.tech](https://blog.krishguptadev.tech)
-
-- 💬 Ask me about **open source, web development, and Node.js**
-
-- 📫 Reach me out at **krishguptadev@outlook.com**
-
-</p> <br />
+</p>
 
 <details>
   <summary>🏆 GitHub Trophee</summary>
