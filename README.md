@@ -18,7 +18,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   
 <p>
   
-- 🔭 I’m currently working on [Web3Community website](https://github.com/web3community/web3community.github.io)
+- 🔭 I’m currently working on [Cerulean Coders](https://github.com/CeruleanCodersComm)
 
 - 🌱 I’m currently learning **everything** 🤓
 
@@ -31,10 +31,6 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
 - 💬 Ask me about **open source, web development, and Node.js**
 
 - 📫 Reach me out at **krishguptadev@outlook.com**
-
-- 📄 Know about my experiences [resume.krishguptadev.tech](resume.krishguptadev.tech)
-
-- ⚡ Fun fact: **I'm just 13 and have gone through 13 professions in tech ✨**
 
 </p> <br />
 
