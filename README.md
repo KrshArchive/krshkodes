@@ -69,11 +69,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/dev-protocol/hashi-web/issues/33) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
-2. 🗣 Commented on [#824](https://github.com/EddieHubCommunity/LinkFree/issues/824) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🎉 Merged PR [#17](https://github.com/dev-protocol/.github/pull/17) in [dev-protocol/.github](https://github.com/dev-protocol/.github)
-4. 🎉 Merged PR [#101](https://github.com/dev-protocol/community/pull/101) in [dev-protocol/community](https://github.com/dev-protocol/community)
-5. 💪 Opened PR [#684](https://github.com/EddieHubCommunity/EddieBot/pull/684) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🎉 Merged PR [#789](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/789) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❌ Closed PR [#201](https://github.com/web3community/devprotocol.xyz/pull/201) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+3. 🗣 Commented on [#201](https://github.com/web3community/devprotocol.xyz/issues/201) in [web3community/devprotocol.xyz](https://github.com/web3community/devprotocol.xyz)
+4. 🗣 Commented on [#33](https://github.com/dev-protocol/hashi-web/issues/33) in [dev-protocol/hashi-web](https://github.com/dev-protocol/hashi-web)
+5. 🗣 Commented on [#824](https://github.com/EddieHubCommunity/LinkFree/issues/824) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
