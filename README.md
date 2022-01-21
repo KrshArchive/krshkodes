@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/%40krishguptadev%0A-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krishguptadev)
 [![Outlook](https://img.shields.io/badge/E%20Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:krishguptadev@outlook.com)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://poly.work/krishguptadev)
-[![Twitter](https://img.shields.io/badge/%40krishguptadev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krishguptadev)
+[![Twitter](https://img.shields.io/badge/%40krshdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krishguptadev)
 
 ### A passionate student developer from India, looking forward to learn tech
 
@@ -40,7 +40,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <summary>🏆 GitHub Trophee</summary>
   <br />
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishguptadev&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=krshdev&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true">
   </p>
 </details>
 
@@ -48,11 +48,11 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <summary>📈 Show GitHub Stats</summary>
   <br />
   <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishguptadev&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=krishguptadev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krshdev&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=krshdev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
   </p>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=krishguptadev&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=krshdev&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </details>
 
 <details>
