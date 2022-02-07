@@ -6,8 +6,6 @@
 [![Outlook](https://img.shields.io/badge/E%20Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:krishguptadev@outlook.com)
 [![Twitter](https://img.shields.io/badge/%40krshdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krishguptadev)
 
-### A passionate student developer from India, looking forward to learn tech
-
 <p>
   
 Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my tech journey on **30th September 2021**. Since then, I am learning new things and growing my network. I love to **chat, collaborate and contribute**. I am an open sourcer, that's my complete bio.
