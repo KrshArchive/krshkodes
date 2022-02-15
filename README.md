@@ -14,7 +14,7 @@ Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my
   <summary>🧑 More about me</summary>
   <br />
 
-🔭 I’m currently working on [Cerulean Coders](https://github.com/CeruleanCodersComm)
+🔭 I’m currently working on [Innate](https://innatecomm.us/chat)
 
 🌱 I’m currently learning **everything** 🤓
 
