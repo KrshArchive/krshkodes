@@ -1,10 +1,10 @@
-[![](https://github.com/krishguptadev/krishguptadev/raw/main/banner.png)](https://krishguptadev.tech/)
+[![](https://github.com/krshdev/krshdev/raw/main/banner.png)](https://krishguptadev.tech/)
 
 # Hi 👋 I'm Krish Gupta
 
 [![Discord](https://img.shields.io/badge/Innate-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://innatecomm.us/chat)
 [![Outlook](https://img.shields.io/badge/E%20Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:krishguptadev@outlook.com)
-[![Twitter](https://img.shields.io/badge/%40krshdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krishguptadev)
+[![Twitter](https://img.shields.io/badge/%40krshdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krshdev)
 
 <p>
   
