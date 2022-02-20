@@ -1,6 +1,4 @@
-[![](https://github.com/krshdev/krshdev/raw/main/banner.png)](https://krishguptadev.tech/)
-
-# Hi 👋 I'm Krish Gupta
+<a href="https://krishguptadev.tech/"><img src="https://user-images.githubusercontent.com/91655303/154834423-c597a97c-b39c-4fe5-9cf4-9ae51dd1cc0f.png" width="100%" height="auto"/></a>
 
 [![Discord](https://img.shields.io/badge/Innate-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://innatecomm.us/chat)
 [![Outlook](https://img.shields.io/badge/E%20Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:krishguptadev@outlook.com)
@@ -8,11 +6,10 @@
 
 <p>
   
-Alola peeps, I am **Krish** an 8th-grade student from Delhi, India. I started my tech journey on **30th September 2021**. Since then, I am learning new things and growing my network. I love to **chat, collaborate and contribute**. I am an open sourcer.
+Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript and Git. I love to meet new people, make connections
 
 <details>
   <summary>🧑 More about me</summary>
-  <br />
 
 - 🔭 I’m currently working on [Innate](https://innatecomm.us/chat)
 
