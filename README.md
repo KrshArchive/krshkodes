@@ -6,8 +6,9 @@
 
 <p>
   
-Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript and Git. I love to meet new people, make connections
+Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript and Git. I love to meet new people, make connections and add value ✨
 
+<div>
 <details>
   <summary>🧑 More about me</summary>
 
@@ -58,3 +59,4 @@ Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I sp
 <!-- BLOG-POST-LIST:END -->
 
 </details>
+</div>
