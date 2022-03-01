@@ -1,6 +1,6 @@
 <a href="https://krishguptadev.tech/"><img src="https://user-images.githubusercontent.com/91655303/154834423-c597a97c-b39c-4fe5-9cf4-9ae51dd1cc0f.png" width="100%" height="auto"/></a>
 
-[![Discord](https://img.shields.io/badge/Innate-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://innatecomm.us/chat)
+[![Discord](https://img.shields.io/badge/Discord%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://innatecomm.us/chat)
 [![Twitter](https://img.shields.io/badge/%40krshdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krshdev)
 
 <p>
