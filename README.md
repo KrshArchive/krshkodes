@@ -11,7 +11,7 @@ Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I sp
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently working on [Innate](https://innatecomm.us/chat)
+- 🔭 I’m currently on a journey to get into **Harvard**
 
 - 🌱 I’m currently learning **everything** 🤓
 
