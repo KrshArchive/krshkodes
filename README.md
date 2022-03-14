@@ -30,14 +30,6 @@ Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I sp
 </p>
 
 <details>
-  <summary>🏆 GitHub Trophee</summary>
-  <br />
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krshdev&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true">
-  </p>
-</details>
-
-<details>
   <summary>📈 Show GitHub Stats</summary>
   <br />
   <p align="center">
