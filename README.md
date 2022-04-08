@@ -5,7 +5,7 @@
 
 <p>
   
-Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript and Git. I love to meet new people, make connections and add value ✨
+Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript and Git. I love to network, join new communities and add value ✨
 
 <div>
 <details>
