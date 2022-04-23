@@ -40,14 +40,10 @@ Hi 👋, I am **Krish** an enthusiastic and ambitious full stack developer. I sp
   <img src="https://activity-graph.herokuapp.com/graph?username=krshdev&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </details>
 
+<!--
 <details>
   <summary>📕 Blog Posts</summary>
   <br />
-
-<!-- BLOG-POST-LIST:START -->
-- [Complete Introduction to open source!](https://blog.krishguptadev.tech/complete-introduction-to-open-source)
-- [Appwrite: All you need to know](https://blog.krishguptadev.tech/appwrite-all-you-need-to-know)
-<!-- BLOG-POST-LIST:END -->
-
 </details>
 </div>
+-->
